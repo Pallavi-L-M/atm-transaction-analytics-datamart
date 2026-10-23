@@ -1,0 +1,451 @@
+atmId,atmName,atmCity,atmAddress,totalBalance,numberIncomeTransaction,numberOutcomeTransaction,totalIncome,totalOutcome,totalNumberTransaction,day,transactionTime
+atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,66344.6,26,34,7853.38,4368.06,60,Monday,03:00:00
+atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,40070.94,36,41,18390.94,5508.38,77,Saturday,20:00:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,152162.83,38,59,15943.07,4589.62,97,Friday,16:00:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,37229.4,8,107,2196.09,19053.1,115,Monday,11:00:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107380.27,44,78,18419.23,14523.84,122,Wednesday,09:45:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,153102.1,17,51,5731.86,5910.45,68,Tuesday,23:15:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,83745.17,45,93,20995.63,18778.56,138,Friday,11:00:00
+atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,37618.04,27,78,5467.61,17568.19,105,Sunday,14:45:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,82476.31,43,137,13524.14,30889.81,180,Wednesday,09:45:00
+atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",96935.18,37,77,16057.43,10998.2,114,Tuesday,11:00:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",106761.63,34,136,7170.91,10609.33,170,Tuesday,07:15:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,152545.84,40,26,12432.84,4453.83,66,Tuesday,18:45:00
+atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",96703.14,45,39,18530.17,6290.11,84,Friday,00:00:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,152123.94,20,121,4675.47,8536.76,141,Wednesday,05:00:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,54547.21,13,139,6373.82,30300.35,152,Wednesday,22:45:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,151465.06,11,105,4831.79,16977.92,116,Friday,09:45:00
+atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,68954.98,33,14,7195.16,1843.89,47,Monday,14:45:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,37925.89,17,30,3555.08,4578.55,47,Tuesday,01:30:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,173096.11,10,131,5019.29,12847.38,141,Friday,07:15:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,37137.28,36,61,15206.5,8407.55,97,Thursday,09:45:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107308.95,30,40,7928.64,3235.38,70,Thursday,22:45:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,119005.83,2,28,841.33,2240.24,30,Tuesday,11:00:00
+atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,37841.43,6,70,1648.09,10676.43,76,Sunday,14:45:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,55767.01,17,131,7727.33,13410.43,148,Friday,21:30:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,64596.4,28,129,13263.73,10217.97,157,Wednesday,18:45:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,151289.18,27,96,12209.44,8503.27,123,Monday,01:30:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,121880.15,29,56,7966.46,6298.16,85,Thursday,07:15:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,127742.72,8,22,3213.83,3561.8,30,Sunday,23:15:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73784.27,12,114,4141.42,12122.42,126,Sunday,11:00:00
+atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,36329.74,2,109,540.34,22158.83,111,Tuesday,17:30:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,64647.26,44,134,10235.76,16139.0,178,Saturday,23:15:00
+atm350018,Market East Transit ATM,Philadelphia,1001 Market St,150951.9,5,90,997.18,15237.92,95,Saturday,23:15:00
+atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,67018.98,34,30,15961.52,2449.46,64,Tuesday,01:30:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,47223.72,38,73,14319.63,5603.19,111,Thursday,05:00:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,134537.73,22,76,5487.86,14573.2,98,Friday,22:45:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,36851.18,31,90,15371.85,20616.73,121,Tuesday,13:30:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,35108.43,6,64,2112.0,5921.13,70,Friday,05:00:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",74133.03,20,50,6579.66,8117.35,70,Tuesday,16:00:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,154410.63,44,86,21859.07,7534.43,130,Friday,00:00:00
+atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",96993.29,37,49,10086.14,8468.23,86,Monday,05:00:00
+atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,160891.51,34,135,9022.96,30292.25,169,Saturday,12:15:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,153308.31,4,10,1173.64,922.39,14,Thursday,12:15:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,134768.88,37,119,13716.21,10593.21,156,Saturday,20:00:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,82380.05,4,104,1512.21,9898.3,108,Tuesday,23:15:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,38714.92,24,63,9885.66,11552.86,87,Wednesday,01:30:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,120919.34,41,49,20285.15,5402.02,90,Sunday,18:45:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132881.05,13,95,5798.15,13299.17,108,Thursday,00:00:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,59069.79,19,50,8506.44,4418.81,69,Sunday,11:00:00
+atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,112047.4,31,99,8796.71,20315.66,130,Tuesday,09:45:00
+atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",128509.69,27,94,7417.58,7689.34,121,Saturday,09:45:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",110193.63,27,94,13482.2,8423.16,121,Saturday,22:45:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,133657.41,4,37,1531.34,4764.37,41,Friday,12:15:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,61796.88,9,108,4372.48,11049.85,117,Friday,22:45:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,64926.61,36,60,10938.07,4913.73,96,Monday,22:45:00
+atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,67502.79,44,41,18687.52,4963.25,85,Friday,14:45:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,63190.59,20,42,4904.51,7687.6,62,Wednesday,17:30:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,59061.03,27,10,7649.57,1057.31,37,Tuesday,13:30:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,35578.06,31,123,10240.36,13078.5,154,Saturday,14:45:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,54970.16,20,95,4235.03,22024.79,115,Tuesday,03:00:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,39490.07,11,16,2152.84,3796.31,27,Tuesday,09:45:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,173884.59,28,59,11878.65,7981.3,87,Monday,20:00:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,140140.55,8,118,2035.25,24390.44,126,Saturday,00:00:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,129460.22,17,41,5698.35,8455.87,58,Monday,23:15:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,118140.64,30,139,9752.76,31158.98,169,Friday,14:45:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132143.07,30,76,13068.12,16171.03,106,Saturday,21:30:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,173710.69,42,71,11481.25,5905.22,113,Friday,21:30:00
+atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",97249.94,36,30,8173.7,3279.43,66,Wednesday,14:45:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,82141.16,28,114,8189.99,17009.61,142,Tuesday,03:00:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,62063.71,38,107,13002.58,24638.47,145,Thursday,00:00:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,39282.01,36,66,12455.93,7682.33,102,Sunday,18:45:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,36487.54,12,129,5911.73,30537.23,141,Wednesday,17:30:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,35889.85,7,119,1582.96,17670.16,126,Friday,00:00:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,37054.5,31,93,9137.26,20417.11,124,Wednesday,09:45:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,66467.76,32,14,13909.38,1103.96,46,Wednesday,03:00:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,48118.03,43,20,18766.89,4628.68,63,Saturday,03:00:00
+atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",129264.21,17,42,5797.18,3756.74,59,Friday,07:15:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,129637.38,25,52,9650.09,12159.42,77,Saturday,12:15:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,173971.2,21,37,7911.81,8432.7,58,Sunday,08:30:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,38577.87,6,72,1287.88,14495.17,78,Thursday,09:45:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,36400.97,38,20,11325.87,2856.49,58,Sunday,05:00:00
+atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,67409.25,2,117,919.19,10289.17,119,Saturday,14:45:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,150638.8,11,121,2638.75,19202.33,132,Sunday,20:00:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,33791.27,32,129,10499.05,25061.4,161,Sunday,23:15:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,46574.16,19,125,4995.36,18625.05,144,Sunday,03:00:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,39552.88,33,93,7980.24,9863.61,126,Wednesday,00:00:00
+atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,67119.52,37,12,13159.17,1229.76,49,Wednesday,12:15:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,63379.53,17,131,6793.32,20100.59,148,Thursday,23:15:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",74350.3,27,72,7670.97,12158.24,99,Wednesday,11:00:00
+atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,66109.25,37,94,11085.78,13830.85,131,Wednesday,18:45:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,48201.7,22,40,9516.75,9265.97,62,Monday,09:45:00
+atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,162995.51,19,82,9754.1,17346.84,101,Tuesday,21:30:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107501.6,2,42,546.53,9896.47,44,Tuesday,13:30:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,84263.13,8,13,3001.45,1947.37,21,Tuesday,21:30:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132775.47,32,39,14704.62,5386.69,71,Monday,12:15:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,149990.21,11,48,5013.67,11104.87,59,Saturday,01:30:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,49171.85,28,67,12424.6,9022.51,95,Monday,23:15:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,40987.11,21,25,8132.76,4895.38,46,Sunday,18:45:00
+atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,163212.71,18,30,4201.19,2986.45,48,Saturday,09:45:00
+atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",128032.31,40,130,11161.13,14215.62,170,Thursday,20:00:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,83600.85,6,69,2964.78,14071.22,75,Sunday,20:00:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,137812.0,29,39,10589.39,7023.82,68,Sunday,09:45:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,141661.62,12,88,4587.78,18490.63,100,Monday,01:30:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,128513.29,21,113,10510.71,17524.07,134,Monday,20:00:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",74498.83,29,92,11172.62,6844.53,121,Friday,01:30:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,135389.56,45,78,16916.58,15578.83,123,Sunday,00:00:00
+atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,68085.69,19,56,9860.27,8069.63,75,Saturday,20:00:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73837.44,28,95,8096.47,8339.29,123,Thursday,16:00:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,62777.78,20,112,9132.25,18313.84,132,Saturday,21:30:00
+atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,63256.94,9,113,4266.63,23756.85,122,Wednesday,14:45:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,119597.22,5,58,1781.35,10199.17,63,Thursday,18:45:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,127821.6,15,78,5501.02,17760.94,93,Sunday,01:30:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,82131.67,3,71,1263.98,8720.75,74,Thursday,05:00:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,60939.76,9,128,4518.01,23054.16,137,Monday,11:00:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,81703.7,19,116,8812.32,27450.42,135,Wednesday,22:45:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,118455.3,14,140,6072.35,13048.9,154,Tuesday,17:30:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,174117.92,23,139,6229.29,9790.62,162,Sunday,18:45:00
+atm350018,Market East Transit ATM,Philadelphia,1001 Market St,151327.08,11,124,3994.29,15955.21,135,Friday,21:30:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,120580.59,22,58,11296.19,6414.62,80,Thursday,20:00:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,171653.64,22,131,9235.1,27240.08,153,Thursday,01:30:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,136017.03,33,19,7356.48,4448.09,52,Sunday,07:15:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67435.75,8,126,1481.75,11907.81,134,Sunday,20:00:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,139914.02,18,96,7054.35,13206.93,114,Monday,21:30:00
+atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,65678.57,26,91,10220.9,20098.68,117,Sunday,23:15:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,119493.26,17,83,8825.12,16346.87,100,Monday,03:00:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",66088.79,30,52,12478.81,11626.27,82,Sunday,05:00:00
+atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,37474.5,25,120,5737.34,19235.79,145,Wednesday,16:00:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,133446.34,7,107,2734.91,11870.69,114,Tuesday,08:30:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,143022.1,42,75,14122.67,13752.22,117,Tuesday,20:00:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,129531.69,12,28,3962.26,3604.89,40,Wednesday,23:15:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,151383.43,31,87,7679.75,11779.61,118,Thursday,12:15:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,49984.91,38,85,19665.58,10216.08,123,Thursday,16:00:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,136893.95,2,22,979.22,4326.94,24,Thursday,12:15:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,38567.1,40,100,10178.46,10232.24,140,Sunday,11:00:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,174657.17,42,34,20460.6,6115.85,76,Saturday,07:15:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,129054.73,10,33,4892.73,4142.89,43,Monday,16:00:00
+atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,161949.13,25,138,12264.64,29142.89,163,Tuesday,23:15:00
+atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,115236.28,23,39,7802.35,3229.23,62,Sunday,13:30:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,46267.21,37,103,7796.01,14119.0,140,Sunday,17:30:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",68775.27,45,77,17043.77,16155.44,122,Thursday,16:00:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67731.1,32,16,12500.67,3685.42,48,Saturday,11:00:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,36168.25,42,128,20546.06,15535.66,170,Tuesday,03:00:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,140867.02,21,136,4609.1,14948.58,157,Monday,01:30:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,39410.42,44,117,16706.61,22642.06,161,Thursday,16:00:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,153121.54,41,114,20470.4,13401.36,155,Monday,21:30:00
+atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,162959.89,17,102,3634.27,19029.7,119,Thursday,20:00:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,152822.0,27,80,6602.44,7261.37,107,Wednesday,01:30:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,131357.6,43,15,8479.46,1900.45,58,Monday,09:45:00
+atm350018,Market East Transit ATM,Philadelphia,1001 Market St,151658.31,37,63,14036.7,13117.8,100,Tuesday,03:00:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,174910.75,19,47,9799.43,7606.32,66,Tuesday,00:00:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67668.68,10,13,3018.02,2652.43,23,Saturday,00:00:00
+atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",128000.35,5,42,2160.92,6696.25,47,Tuesday,12:15:00
+atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,115097.99,34,37,11345.18,3983.55,71,Thursday,16:00:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,58921.38,21,127,8373.45,9562.54,148,Sunday,22:45:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,38819.14,33,123,6764.57,10299.33,156,Thursday,05:00:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73937.45,41,93,12689.81,15954.77,134,Tuesday,12:15:00
+atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,67442.18,8,39,3759.6,7045.58,47,Friday,18:45:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,58170.09,29,125,13976.58,17543.54,154,Sunday,09:45:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,39489.62,22,119,6297.68,13486.42,141,Thursday,05:00:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,136826.9,7,31,1481.89,2678.89,38,Thursday,03:00:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,143185.12,39,94,15904.38,13144.72,133,Friday,01:30:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,172035.84,20,89,5991.19,14973.91,109,Thursday,01:30:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,136080.36,8,99,3739.42,13116.05,107,Thursday,11:00:00
+atm350018,Market East Transit ATM,Philadelphia,1001 Market St,154089.02,37,16,14321.16,2909.3,53,Tuesday,18:45:00
+atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",126307.22,21,96,6286.31,9680.54,117,Tuesday,12:15:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,135818.8,11,17,2323.17,2723.09,28,Thursday,03:00:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,128701.03,25,89,10633.57,17983.52,114,Wednesday,08:30:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",75600.28,12,22,4909.79,2557.66,34,Monday,07:15:00
+atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,113020.17,28,79,7092.22,12410.81,107,Friday,20:00:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67140.27,35,88,6840.47,12073.14,123,Wednesday,21:30:00
+atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",126700.14,15,45,6597.22,5364.27,60,Tuesday,13:30:00
+atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,113603.97,13,43,4020.52,8153.84,56,Saturday,18:45:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,134213.41,6,111,2838.0,8568.24,117,Sunday,16:00:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73788.85,38,119,14248.32,22683.16,157,Sunday,14:45:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",68429.1,22,53,9953.89,9279.31,75,Thursday,00:00:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",106280.81,8,72,2625.04,9941.51,80,Monday,18:45:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,39643.76,16,95,7118.4,7883.53,111,Saturday,14:45:00
+atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,66863.25,24,99,10255.41,20712.9,123,Friday,09:45:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,48237.84,18,60,4301.81,5759.27,78,Monday,07:15:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73856.78,31,124,12759.15,27273.58,155,Tuesday,21:30:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,33803.18,11,122,2235.39,17711.4,133,Wednesday,14:45:00
+atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",93219.92,24,139,4925.4,20640.97,163,Friday,01:30:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107882.65,6,33,2334.62,5154.65,39,Sunday,13:30:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,119389.09,30,58,8679.57,8749.7,88,Sunday,01:30:00
+atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,38370.41,23,31,8085.57,3079.39,54,Thursday,05:00:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,128828.28,35,50,10630.39,11302.46,85,Thursday,22:45:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,174363.53,42,95,8501.22,8176.27,137,Wednesday,01:30:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,39457.64,23,30,8697.02,2821.28,53,Wednesday,07:15:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,152588.52,10,31,2852.58,4155.1,41,Saturday,17:30:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,140599.38,7,118,2470.2,8625.7,125,Saturday,22:45:00
+atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,163835.92,14,67,7279.89,6454.83,81,Wednesday,21:30:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",68721.28,35,19,14176.96,4160.75,54,Friday,23:15:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,36298.56,12,56,5551.89,11260.85,68,Thursday,07:15:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132439.95,4,115,1215.45,22117.9,119,Saturday,20:00:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,34832.71,16,71,4563.51,14730.09,87,Wednesday,20:00:00
+atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,164225.11,31,82,13781.43,12750.52,113,Wednesday,20:00:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,134615.57,40,45,19072.83,3549.18,85,Sunday,09:45:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107745.23,35,41,9692.25,8188.92,76,Friday,05:00:00
+atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,67121.13,7,66,3203.75,14545.55,73,Tuesday,18:45:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,61830.53,34,105,8845.59,25102.28,139,Monday,17:30:00
+atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",128121.3,43,95,19309.98,8872.23,138,Wednesday,05:00:00
+atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,111041.47,32,124,12454.99,27775.48,156,Saturday,07:15:00
+atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,163171.43,37,118,8058.73,14039.32,155,Sunday,07:15:00
+atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,36776.33,42,127,8456.89,26954.09,169,Tuesday,18:45:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,119712.01,38,71,16123.59,8485.65,109,Monday,22:45:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",109695.07,13,31,4653.8,4070.38,44,Tuesday,18:45:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,121782.84,37,15,11571.91,2248.84,52,Friday,22:45:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",108849.23,24,27,7133.59,5254.2,51,Wednesday,00:00:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,174256.21,10,21,2997.82,2678.61,31,Friday,14:45:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,175631.31,32,56,14589.09,4520.72,88,Saturday,20:00:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,128845.37,14,21,6285.68,4632.27,35,Monday,13:30:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,36757.39,36,131,9580.56,25945.79,167,Friday,17:30:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107325.47,43,94,11734.43,19353.49,137,Sunday,01:30:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,38687.26,26,96,13287.72,14818.04,122,Saturday,20:00:00
+atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,66234.34,29,30,9465.79,7175.0,59,Wednesday,03:00:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,38776.19,7,93,2832.99,11355.7,100,Wednesday,05:00:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,61153.66,24,124,4665.62,27020.38,148,Tuesday,20:00:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,62221.9,6,113,1821.15,23299.05,119,Wednesday,01:30:00
+atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",126547.16,4,42,811.44,8498.6,46,Tuesday,20:00:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,38973.91,40,49,16435.24,11333.7,89,Friday,01:30:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,172290.01,35,103,11036.61,18583.81,138,Monday,07:15:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",68828.24,33,109,16189.95,9812.11,142,Monday,08:30:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,83152.2,41,83,17054.09,19900.65,124,Thursday,09:45:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,141221.74,30,54,14566.53,7866.12,84,Sunday,03:00:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,135852.47,44,98,18534.73,16022.95,142,Sunday,14:45:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,39229.05,42,54,18893.98,8450.38,96,Sunday,08:30:00
+atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,162061.07,17,136,3211.92,22328.98,153,Sunday,07:15:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,118861.02,6,89,1892.25,17077.21,95,Tuesday,03:00:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,63052.97,38,28,8459.22,3469.05,66,Sunday,18:45:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,129949.93,24,42,11484.15,8511.08,66,Saturday,22:45:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132317.88,29,138,14199.62,10959.99,167,Sunday,07:15:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,142731.52,12,92,5973.73,9966.36,104,Wednesday,08:30:00
+atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,65570.2,18,60,7126.55,9818.58,78,Wednesday,03:00:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,37486.71,7,138,2785.55,23543.83,145,Friday,23:15:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,133358.37,38,20,17502.05,1496.47,58,Saturday,14:45:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,153268.89,43,63,18952.94,8871.64,106,Sunday,12:15:00
+atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,113460.75,20,87,6884.02,17991.34,107,Saturday,23:15:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,37835.79,5,50,1647.33,7616.13,55,Thursday,03:00:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,35775.66,22,98,11255.8,9038.56,120,Tuesday,14:45:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,117854.01,17,129,3768.18,18889.64,146,Monday,14:45:00
+atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,36149.65,41,117,10840.89,25400.97,158,Wednesday,17:30:00
+atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,66400.45,14,50,4891.74,7875.16,64,Friday,14:45:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,36134.63,7,110,2462.96,25777.04,117,Thursday,00:00:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",106659.73,20,136,7663.13,29006.68,156,Monday,01:30:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,37718.84,8,120,1804.3,13795.25,128,Friday,00:00:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,39779.8,27,23,10095.19,2371.1,50,Wednesday,01:30:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",75168.99,30,81,13818.18,14252.04,111,Thursday,22:45:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,140376.62,25,96,9241.57,12686.7,121,Monday,17:30:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,35919.22,34,20,6643.71,1865.92,54,Friday,17:30:00
+atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,112540.68,11,45,3206.59,7839.97,56,Friday,20:00:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,35782.71,39,96,13747.0,15038.53,135,Saturday,13:30:00
+atm350018,Market East Transit ATM,Philadelphia,1001 Market St,151283.05,3,104,877.86,9217.81,107,Wednesday,21:30:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,39440.89,40,131,10811.21,23770.01,171,Sunday,00:00:00
+atm350018,Market East Transit ATM,Philadelphia,1001 Market St,150510.08,5,132,1189.87,23355.33,137,Friday,11:00:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,38151.1,4,38,979.47,5509.11,42,Tuesday,11:00:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,63066.15,28,138,12417.74,31255.42,166,Saturday,09:45:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,56340.35,10,63,3707.02,15099.9,73,Saturday,01:30:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,39290.95,31,97,11337.72,17935.07,128,Wednesday,08:30:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,135922.11,41,133,10060.16,14883.8,174,Saturday,12:15:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,47593.42,15,135,4316.91,17455.03,150,Wednesday,13:30:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,56049.38,9,107,4361.03,14666.55,116,Wednesday,13:30:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,173507.77,20,20,5555.89,3828.08,40,Sunday,07:15:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,130294.19,32,64,7958.5,10339.73,96,Saturday,12:15:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,83333.9,8,71,2099.49,13054.9,79,Wednesday,07:15:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,150892.66,8,115,2338.4,17285.5,123,Tuesday,01:30:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,139693.11,12,114,4823.8,25046.95,126,Monday,23:15:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,149629.21,22,83,8791.32,18620.99,105,Tuesday,13:30:00
+atm350018,Market East Transit ATM,Philadelphia,1001 Market St,152651.1,4,54,1288.32,11469.21,58,Tuesday,23:15:00
+atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,40218.25,33,57,16448.75,13313.05,90,Sunday,17:30:00
+atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,39903.43,38,37,18835.64,4697.41,75,Monday,13:30:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,151813.03,33,44,15488.89,6580.8,77,Friday,22:45:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67649.34,31,75,13154.02,5429.57,106,Wednesday,08:30:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,36899.49,13,113,5995.3,17808.54,126,Friday,09:45:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,134321.97,10,132,2900.25,14806.18,142,Monday,08:30:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,46303.99,23,87,8694.84,14562.86,110,Thursday,12:15:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",108615.25,5,40,1691.17,3886.07,45,Saturday,11:00:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,85068.74,9,85,2744.68,9141.27,94,Sunday,13:30:00
+atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,113499.16,40,105,12855.5,17153.84,145,Tuesday,20:00:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,120159.25,17,30,6097.43,4793.68,47,Sunday,09:45:00
+atm350018,Market East Transit ATM,Philadelphia,1001 Market St,150040.22,37,139,9203.13,22411.28,176,Monday,01:30:00
+atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,69118.22,45,62,19068.84,9492.25,107,Thursday,05:00:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,128370.49,31,43,10989.63,6349.2,74,Sunday,01:30:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,127684.21,3,111,799.55,7826.9,114,Saturday,13:30:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",76726.86,24,26,8735.89,2086.33,50,Monday,18:45:00
+atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,115566.5,28,56,12360.61,11210.68,84,Monday,13:30:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,149928.01,26,124,12367.44,27794.65,150,Thursday,16:00:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,133765.76,10,99,2203.35,23639.61,109,Saturday,23:15:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,142325.08,2,15,1025.37,2230.66,17,Saturday,11:00:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,62731.98,16,73,5385.8,7035.06,89,Friday,17:30:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,56186.11,4,117,1556.3,26811.77,121,Sunday,05:00:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,48656.56,8,18,2654.32,3316.39,26,Tuesday,03:00:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,48093.83,27,122,7011.23,13046.16,149,Saturday,01:30:00
+atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,37656.94,20,69,9147.35,13410.7,89,Tuesday,22:45:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,34751.71,17,87,8124.77,20668.44,104,Sunday,14:45:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,63244.57,5,54,1964.19,7701.7,59,Wednesday,12:15:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107866.22,35,91,14586.07,12685.77,126,Saturday,17:30:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,134384.25,32,71,15000.83,8599.89,103,Sunday,23:15:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,128419.92,28,116,10345.37,10764.31,144,Monday,23:15:00
+atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,162062.73,30,104,6343.13,20090.66,134,Wednesday,03:00:00
+atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",95979.8,6,58,2721.49,9853.58,64,Thursday,01:30:00
+atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,166208.23,23,87,11623.89,6316.79,110,Thursday,09:45:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,56858.37,17,62,5352.53,6862.55,79,Monday,21:30:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,40170.03,36,101,10255.09,13245.1,137,Thursday,20:00:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,129223.82,22,62,6732.87,8702.82,84,Monday,21:30:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,47090.03,3,76,1104.38,12865.69,79,Saturday,07:15:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,38590.17,23,68,7110.35,14393.67,91,Tuesday,09:45:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,150313.39,18,135,9155.03,24176.89,153,Saturday,14:45:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,134193.45,12,45,5098.88,6885.62,57,Saturday,16:00:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,122877.25,35,18,16284.92,1487.45,53,Saturday,01:30:00
+atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,40062.12,28,45,13061.03,4920.47,73,Sunday,00:00:00
+atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",127766.97,31,105,6217.14,18733.46,136,Tuesday,22:45:00
+atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,112521.05,3,11,1082.86,1539.2,14,Saturday,21:30:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,57773.67,20,14,7015.07,2640.9,34,Wednesday,23:15:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132453.7,35,48,9167.53,8417.41,83,Monday,05:00:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",106306.15,7,105,3543.13,15543.11,112,Wednesday,17:30:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,86277.6,45,30,18102.16,6476.92,75,Tuesday,13:30:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73472.96,26,131,5176.06,9380.46,157,Thursday,17:30:00
+atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,112374.86,43,94,16012.82,20290.21,137,Sunday,18:45:00
+atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,64950.33,15,131,4082.58,29751.03,146,Monday,11:00:00
+atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",94405.2,13,90,2409.21,9469.52,103,Friday,01:30:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,84527.84,6,86,1411.4,9535.7,92,Sunday,17:30:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,40305.09,23,108,10048.86,10129.49,131,Saturday,23:15:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,56532.53,24,23,5117.12,2517.68,47,Monday,22:45:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,36318.85,22,17,8703.24,3454.45,39,Sunday,17:30:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,45843.36,26,120,6321.92,20351.85,146,Wednesday,23:15:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,174514.94,17,28,3534.18,2694.09,45,Friday,13:30:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,151021.28,22,102,4757.0,7230.09,124,Tuesday,17:30:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107999.17,8,43,1677.45,6160.46,51,Sunday,12:15:00
+atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,67073.49,3,32,900.99,2746.27,35,Thursday,05:00:00
+atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,65740.53,2,84,641.39,17006.53,86,Sunday,17:30:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,118795.73,12,107,2851.57,12381.64,119,Tuesday,22:45:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,140237.75,29,80,9372.07,12185.55,109,Monday,08:30:00
+atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",95483.46,40,60,13426.92,5581.99,100,Tuesday,21:30:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,38056.71,23,122,6757.64,25452.96,145,Wednesday,17:30:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,35780.13,22,61,7542.99,6112.1,83,Tuesday,13:30:00
+atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,67818.07,38,72,11050.45,8470.87,110,Wednesday,21:30:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",110325.79,39,56,16059.51,9156.94,95,Monday,09:45:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,130977.75,30,84,13879.07,6867.59,114,Saturday,09:45:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,63156.29,10,87,2622.87,15831.63,97,Saturday,21:30:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,39506.94,40,132,15118.52,21231.2,172,Monday,20:00:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,82662.68,4,102,1674.22,21225.23,106,Thursday,23:15:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",74368.2,44,100,10408.42,17415.52,144,Monday,11:00:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,150465.49,23,120,4968.49,10411.57,143,Saturday,17:30:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,58753.81,39,66,12931.02,9008.53,105,Friday,23:15:00
+atm350018,Market East Transit ATM,Philadelphia,1001 Market St,150834.56,11,98,5711.41,14902.97,109,Saturday,22:45:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73844.94,24,89,7119.42,18096.01,113,Monday,07:15:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",108559.3,30,125,8652.88,15130.61,155,Thursday,05:00:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",70218.86,43,37,17639.78,3623.79,80,Monday,14:45:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,47862.26,37,50,10823.85,7124.14,87,Friday,08:30:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,38061.59,13,120,4088.47,23442.72,133,Saturday,08:30:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,130965.72,26,11,10909.86,1154.82,37,Friday,18:45:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",74226.88,36,57,10957.31,5899.65,93,Friday,05:00:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,136266.32,35,90,13403.95,15653.02,125,Sunday,21:30:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",108515.11,41,54,18723.51,10260.97,95,Wednesday,20:00:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,35595.89,45,44,12891.74,4864.52,89,Friday,03:00:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",108004.67,34,109,10954.84,10184.68,143,Saturday,07:15:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132800.11,43,54,15852.82,8274.91,97,Thursday,23:15:00
+atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,68067.7,41,23,19445.38,5331.7,64,Sunday,20:00:00
+atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,163889.0,37,139,14875.62,19397.84,176,Sunday,17:30:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,85414.96,33,52,6867.56,3912.81,85,Sunday,20:00:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,39201.38,16,83,3795.06,12262.8,99,Monday,12:15:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,174760.22,34,38,12740.57,4390.56,72,Thursday,23:15:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",110248.13,30,65,15495.71,5681.7,95,Friday,01:30:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,169957.42,4,125,1077.43,27071.74,129,Tuesday,13:30:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",66139.13,15,99,7091.35,17200.71,114,Sunday,11:00:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,36392.41,15,25,5607.38,4012.19,40,Tuesday,09:45:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,134101.41,20,78,10076.3,12281.14,98,Wednesday,13:30:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67968.63,5,80,2373.98,7325.68,85,Tuesday,18:45:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,45651.4,17,110,5889.07,18497.86,127,Tuesday,14:45:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,63954.11,6,33,1901.82,6516.39,39,Thursday,20:00:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107887.87,22,10,10459.43,2140.18,32,Thursday,21:30:00
+atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,126933.49,6,111,1524.37,15877.37,117,Saturday,16:00:00
+atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",95910.82,23,43,8567.23,6557.82,66,Wednesday,13:30:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,134193.38,4,35,1571.6,7428.38,39,Sunday,01:30:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,129840.91,2,119,497.58,22260.21,121,Thursday,20:00:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,151852.72,19,33,7648.64,3714.68,52,Wednesday,08:30:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,151038.11,27,88,11524.57,17458.27,115,Tuesday,01:30:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73533.87,2,64,684.23,5923.77,66,Saturday,05:00:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,133780.25,2,97,915.63,23084.67,99,Thursday,00:00:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,138698.79,16,108,3365.96,22357.37,124,Thursday,03:00:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107202.41,26,44,10351.53,8144.99,70,Wednesday,07:15:00
+atm350018,Market East Transit ATM,Philadelphia,1001 Market St,150848.36,30,99,12768.81,17500.59,129,Monday,08:30:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,63128.03,15,32,7272.62,3001.67,47,Friday,20:00:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,58271.28,29,90,13020.02,10091.13,119,Thursday,16:00:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,45240.38,3,87,749.55,15066.45,90,Friday,13:30:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,38281.63,17,136,5290.42,15093.81,153,Wednesday,01:30:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73677.9,25,91,5621.85,19686.79,116,Friday,00:00:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107929.09,32,28,5941.58,2281.46,60,Friday,08:30:00
+atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,38423.5,34,83,13386.28,12879.8,117,Monday,17:30:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,84921.31,42,49,11522.24,6011.52,91,Thursday,03:00:00
+atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,164842.06,36,93,11262.55,16538.19,129,Sunday,07:15:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,133214.93,21,121,8991.9,25881.85,142,Saturday,03:00:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",76014.61,31,24,8839.92,4706.11,55,Thursday,05:00:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",66829.39,2,51,697.56,6575.93,53,Monday,07:15:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,58413.0,25,42,10873.1,9176.5,67,Wednesday,08:30:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67667.01,23,119,6266.89,9622.13,142,Sunday,00:00:00
+atm350018,Market East Transit ATM,Philadelphia,1001 Market St,153611.85,33,126,11670.97,10007.51,159,Saturday,03:00:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132174.16,18,36,8712.92,6645.62,54,Wednesday,08:30:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,57103.47,4,13,1052.59,1952.6,17,Friday,00:00:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,142671.54,37,117,9484.4,13127.95,154,Tuesday,01:30:00
+atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,64261.91,38,105,8382.66,19368.86,143,Wednesday,03:00:00
+atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,45364.89,4,112,813.74,16695.39,116,Sunday,22:45:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,38876.21,37,126,6760.25,13118.38,163,Wednesday,03:00:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,39719.82,31,104,11816.42,16002.62,135,Saturday,11:00:00
+atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,163204.13,17,48,3096.86,6705.89,65,Saturday,23:15:00
+atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",109864.28,23,10,10074.83,1339.67,33,Saturday,00:00:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,40234.05,35,70,11295.81,16338.1,105,Monday,09:45:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,141725.54,7,21,3452.63,4673.32,28,Saturday,12:15:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,83659.35,7,34,2462.92,6063.11,41,Wednesday,20:00:00
+atm350018,Market East Transit ATM,Philadelphia,1001 Market St,152076.12,29,43,7554.57,4917.84,72,Friday,01:30:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,37521.57,22,125,5994.23,10337.11,147,Saturday,14:45:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,173222.76,11,37,2594.76,5521.49,48,Sunday,05:00:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,118336.08,30,88,10126.14,18913.13,118,Wednesday,09:45:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,136205.72,15,93,3456.45,17753.4,108,Wednesday,01:30:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,36598.65,45,86,12080.55,20503.69,131,Friday,01:30:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,39876.85,37,73,7851.64,6374.67,110,Sunday,20:00:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67726.37,16,43,3957.84,5938.25,59,Monday,01:30:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,152437.75,6,15,3114.21,1554.26,21,Monday,12:15:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,143353.85,9,20,4503.38,1572.17,29,Monday,14:45:00
+atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,64174.41,33,17,10234.22,2423.06,50,Sunday,17:30:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132092.88,30,48,5753.42,8412.48,78,Wednesday,12:15:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,37423.2,37,132,7427.12,15518.17,169,Thursday,18:45:00
+atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,164537.16,17,14,8778.75,2840.96,31,Saturday,22:45:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,118115.7,24,138,6944.29,16004.42,162,Sunday,21:30:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,36018.56,19,24,8643.9,3604.47,43,Tuesday,00:00:00
+atm350018,Market East Transit ATM,Philadelphia,1001 Market St,152797.18,8,73,3226.67,8417.6,81,Tuesday,08:30:00
+atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,57404.52,38,109,11424.08,23180.79,147,Monday,11:00:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,134109.77,24,17,10060.18,2206.36,41,Tuesday,14:45:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,140567.37,33,89,7909.75,6804.39,122,Friday,09:45:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,32693.77,35,132,6308.13,29837.59,167,Tuesday,00:00:00
+atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,143028.08,22,25,4123.91,4243.09,47,Wednesday,08:30:00
+atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,173605.88,25,28,7675.52,6443.55,53,Monday,22:45:00
+atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67446.31,22,44,11259.44,8557.99,66,Wednesday,13:30:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,149484.29,13,101,3326.71,17182.27,114,Thursday,14:45:00
+atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,39822.38,10,55,4278.03,12721.17,65,Saturday,13:30:00
+atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,36517.73,13,91,6410.99,21337.72,104,Sunday,01:30:00
+atm350018,Market East Transit ATM,Philadelphia,1001 Market St,153253.0,11,94,4767.58,10383.17,105,Monday,21:30:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132736.89,44,95,14601.58,10933.18,139,Saturday,03:00:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",74650.81,8,10,1570.96,1444.97,18,Wednesday,12:15:00
+atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,133146.88,26,99,9506.85,8637.04,125,Thursday,21:30:00
+atm350018,Market East Transit ATM,Philadelphia,1001 Market St,149325.97,12,125,2460.73,26722.45,137,Saturday,11:00:00
+atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,66243.04,6,97,1427.01,12981.3,103,Wednesday,05:00:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,120676.33,40,133,16781.26,19062.22,173,Monday,14:45:00
+atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,34991.68,5,35,1462.86,8247.67,40,Thursday,08:30:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,119920.53,18,82,5060.09,7077.07,100,Saturday,23:15:00
+atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,119831.92,11,23,3329.5,3281.94,34,Sunday,21:30:00
+atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,135533.15,14,34,2642.5,3367.41,48,Saturday,21:30:00
+atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",72422.88,21,111,7142.54,24656.34,132,Thursday,05:00:00
+atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,150925.4,13,104,6253.88,13811.02,117,Friday,17:30:00
+atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",94856.67,18,67,8362.92,11116.77,85,Thursday,20:00:00
+atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,84048.34,7,98,3183.47,13757.02,105,Saturday,05:00:00
