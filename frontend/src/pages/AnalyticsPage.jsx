@@ -76,13 +76,13 @@ export default function AnalyticsPage() {
 
         <div className="bg-white rounded-xl border border-slate-200/80 p-5 shadow-sm">
           <span className="text-xs font-semibold text-slate-500 uppercase">Avg Deposit Per Tx</span>
-          <div className="text-xl font-bold text-emerald-600 mt-1">${avgIncomePerDeposit}</div>
+          <div className="text-xl font-bold text-emerald-600 mt-1">₹{Number(avgIncomePerDeposit).toLocaleString('en-IN')}</div>
           <p className="text-xs text-slate-500 mt-1">Reported deposit amount efficiency</p>
         </div>
 
         <div className="bg-white rounded-xl border border-slate-200/80 p-5 shadow-sm">
           <span className="text-xs font-semibold text-slate-500 uppercase">Avg Withdrawal Per Tx</span>
-          <div className="text-xl font-bold text-rose-600 mt-1">${avgOutcomePerWithdrawal}</div>
+          <div className="text-xl font-bold text-rose-600 mt-1">₹{Number(avgOutcomePerWithdrawal).toLocaleString('en-IN')}</div>
           <p className="text-xs text-slate-500 mt-1">Reported withdrawal ticket size</p>
         </div>
 
@@ -115,10 +115,10 @@ export default function AnalyticsPage() {
               <XAxis dataKey="city" tick={{ fontSize: 11, fill: '#64748b' }} />
               <YAxis
                 tick={{ fontSize: 11, fill: '#64748b' }}
-                tickFormatter={(v) => `$${v >= 1000 ? `${(v/1000).toFixed(0)}k` : v}`}
+                tickFormatter={(v) => `₹${v >= 100000 ? `${(v/100000).toFixed(1)}L` : v >= 1000 ? `${(v/1000).toFixed(0)}k` : v}`}
               />
               <Tooltip
-                formatter={(val, name) => [`$${Number(val).toLocaleString()}`, name === 'totalIncome' ? 'Reported Income' : 'Reported Outcome']}
+                formatter={(val, name) => [`₹${Number(val).toLocaleString('en-IN')}`, name === 'totalIncome' ? 'Reported Income' : 'Reported Outcome']}
                 contentStyle={{ backgroundColor: '#0f172a', borderColor: '#334155', color: '#fff', borderRadius: '8px', fontSize: '12px' }}
               />
               <Legend wrapperStyle={{ paddingTop: 10, fontSize: '12px' }} />
@@ -247,20 +247,20 @@ export default function AnalyticsPage() {
                   <td className={`py-3 px-3 text-right font-mono font-bold ${
                     rankingMetric === 'income' ? 'text-emerald-600 font-extrabold bg-emerald-50/40' : 'text-slate-700'
                   }`}>
-                    ${atm.totalIncome.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                    ₹{atm.totalIncome.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
                   </td>
                   <td className={`py-3 px-3 text-right font-mono font-bold ${
                     rankingMetric === 'outcome' ? 'text-rose-600 font-extrabold bg-rose-50/40' : 'text-slate-700'
                   }`}>
-                    ${atm.totalOutcome.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                    ₹{atm.totalOutcome.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
                   </td>
                   <td className={`py-3 px-3 text-right font-mono font-bold ${
                     rankingMetric === 'transactions' ? 'text-blue-600 font-extrabold bg-blue-50/40' : 'text-slate-700'
                   }`}>
-                    {atm.totalTransactions.toLocaleString()}
+                    {atm.totalTransactions.toLocaleString('en-IN')}
                   </td>
                   <td className="py-3 px-3 text-right font-mono text-slate-600">
-                    ${atm.latestBalance.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                    ₹{atm.latestBalance.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
                   </td>
                   <td className="py-3 px-3 text-center">
                     <button

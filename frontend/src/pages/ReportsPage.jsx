@@ -162,7 +162,7 @@ export default function ReportsPage() {
             <div className="p-4 border border-slate-200 rounded-xl bg-slate-50/50">
               <span className="text-[11px] font-semibold text-slate-500 uppercase">Reported Income</span>
               <div className="text-xl font-bold text-emerald-600 mt-1">
-                ${totalIncome.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                ₹{totalIncome.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
               </div>
               <span className="text-[10px] text-slate-400">Deposits sum</span>
             </div>
@@ -170,7 +170,7 @@ export default function ReportsPage() {
             <div className="p-4 border border-slate-200 rounded-xl bg-slate-50/50">
               <span className="text-[11px] font-semibold text-slate-500 uppercase">Reported Outcome</span>
               <div className="text-xl font-bold text-rose-600 mt-1">
-                ${totalOutcome.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                ₹{totalOutcome.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
               </div>
               <span className="text-[10px] text-slate-400">Withdrawals sum</span>
             </div>
@@ -178,7 +178,7 @@ export default function ReportsPage() {
             <div className="p-4 border border-slate-200 rounded-xl bg-slate-50/50">
               <span className="text-[11px] font-semibold text-slate-500 uppercase">Total Transactions</span>
               <div className="text-xl font-bold text-slate-900 mt-1">
-                {totalTransactions.toLocaleString()}
+                {totalTransactions.toLocaleString('en-IN')}
               </div>
               <span className="text-[10px] text-slate-400">Reported count</span>
             </div>
@@ -202,8 +202,8 @@ export default function ReportsPage() {
                   <th className="py-2.5 px-3">ATM ID</th>
                   <th className="py-2.5 px-3">ATM Name</th>
                   <th className="py-2.5 px-3">City</th>
-                  <th className="py-2.5 px-3 text-right">Income ($)</th>
-                  <th className="py-2.5 px-3 text-right">Outcome ($)</th>
+                  <th className="py-2.5 px-3 text-right">Income (₹)</th>
+                  <th className="py-2.5 px-3 text-right">Outcome (₹)</th>
                   <th className="py-2.5 px-3 text-right">Transactions</th>
                   <th className="py-2.5 px-3 text-right">Reported Balance</th>
                 </tr>
@@ -216,14 +216,14 @@ export default function ReportsPage() {
                     <td className="py-2 px-3 font-medium text-slate-900">{atm.atmName}</td>
                     <td className="py-2 px-3 text-slate-600">{atm.atmCity}</td>
                     <td className="py-2 px-3 text-right font-bold text-emerald-600">
-                      ${atm.totalIncome.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                      ₹{atm.totalIncome.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
                     </td>
                     <td className="py-2 px-3 text-right font-medium text-rose-600">
-                      ${atm.totalOutcome.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                      ₹{atm.totalOutcome.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
                     </td>
-                    <td className="py-2 px-3 text-right text-slate-700">{atm.totalTransactions.toLocaleString()}</td>
+                    <td className="py-2 px-3 text-right text-slate-700">{atm.totalTransactions.toLocaleString('en-IN')}</td>
                     <td className="py-2 px-3 text-right font-mono text-slate-600">
-                      ${atm.latestBalance.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                      ₹{atm.latestBalance.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
                     </td>
                   </tr>
                 ))}
@@ -243,8 +243,8 @@ export default function ReportsPage() {
                 <tr>
                   <th className="py-2 px-3">City Name</th>
                   <th className="py-2 px-3 text-right">Active ATMs</th>
-                  <th className="py-2 px-3 text-right">Total Income ($)</th>
-                  <th className="py-2 px-3 text-right">Total Outcome ($)</th>
+                  <th className="py-2 px-3 text-right">Total Income (₹)</th>
+                  <th className="py-2 px-3 text-right">Total Outcome (₹)</th>
                   <th className="py-2 px-3 text-right">Total Transactions</th>
                   <th className="py-2 px-3 text-right">Record Count</th>
                 </tr>
@@ -255,12 +255,12 @@ export default function ReportsPage() {
                     <td className="py-2 px-3 font-semibold text-slate-900">{c.city}</td>
                     <td className="py-2 px-3 text-right text-slate-700">{c.atmCount}</td>
                     <td className="py-2 px-3 text-right font-medium text-emerald-600">
-                      ${c.totalIncome.toLocaleString()}
+                      ₹{c.totalIncome.toLocaleString('en-IN')}
                     </td>
                     <td className="py-2 px-3 text-right font-medium text-rose-600">
-                      ${c.totalOutcome.toLocaleString()}
+                      ₹{c.totalOutcome.toLocaleString('en-IN')}
                     </td>
-                    <td className="py-2 px-3 text-right text-slate-700">{c.totalTransactions.toLocaleString()}</td>
+                    <td className="py-2 px-3 text-right text-slate-700">{c.totalTransactions.toLocaleString('en-IN')}</td>
                     <td className="py-2 px-3 text-right text-slate-500">{c.recordCount} rows</td>
                   </tr>
                 ))}

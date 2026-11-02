@@ -1,451 +1,451 @@
 atmId,atmName,atmCity,atmAddress,totalBalance,numberIncomeTransaction,numberOutcomeTransaction,totalIncome,totalOutcome,totalNumberTransaction,day,transactionTime
-atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,66344.6,26,34,7853.38,4368.06,60,Monday,03:00:00
-atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,40070.94,36,41,18390.94,5508.38,77,Saturday,20:00:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,152162.83,38,59,15943.07,4589.62,97,Friday,16:00:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,37229.4,8,107,2196.09,19053.1,115,Monday,11:00:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107380.27,44,78,18419.23,14523.84,122,Wednesday,09:45:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,153102.1,17,51,5731.86,5910.45,68,Tuesday,23:15:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,83745.17,45,93,20995.63,18778.56,138,Friday,11:00:00
-atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,37618.04,27,78,5467.61,17568.19,105,Sunday,14:45:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,82476.31,43,137,13524.14,30889.81,180,Wednesday,09:45:00
-atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",96935.18,37,77,16057.43,10998.2,114,Tuesday,11:00:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",106761.63,34,136,7170.91,10609.33,170,Tuesday,07:15:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,152545.84,40,26,12432.84,4453.83,66,Tuesday,18:45:00
-atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",96703.14,45,39,18530.17,6290.11,84,Friday,00:00:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,152123.94,20,121,4675.47,8536.76,141,Wednesday,05:00:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,54547.21,13,139,6373.82,30300.35,152,Wednesday,22:45:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,151465.06,11,105,4831.79,16977.92,116,Friday,09:45:00
-atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,68954.98,33,14,7195.16,1843.89,47,Monday,14:45:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,37925.89,17,30,3555.08,4578.55,47,Tuesday,01:30:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,173096.11,10,131,5019.29,12847.38,141,Friday,07:15:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,37137.28,36,61,15206.5,8407.55,97,Thursday,09:45:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107308.95,30,40,7928.64,3235.38,70,Thursday,22:45:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,119005.83,2,28,841.33,2240.24,30,Tuesday,11:00:00
-atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,37841.43,6,70,1648.09,10676.43,76,Sunday,14:45:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,55767.01,17,131,7727.33,13410.43,148,Friday,21:30:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,64596.4,28,129,13263.73,10217.97,157,Wednesday,18:45:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,151289.18,27,96,12209.44,8503.27,123,Monday,01:30:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,121880.15,29,56,7966.46,6298.16,85,Thursday,07:15:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,127742.72,8,22,3213.83,3561.8,30,Sunday,23:15:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73784.27,12,114,4141.42,12122.42,126,Sunday,11:00:00
-atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,36329.74,2,109,540.34,22158.83,111,Tuesday,17:30:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,64647.26,44,134,10235.76,16139.0,178,Saturday,23:15:00
-atm350018,Market East Transit ATM,Philadelphia,1001 Market St,150951.9,5,90,997.18,15237.92,95,Saturday,23:15:00
-atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,67018.98,34,30,15961.52,2449.46,64,Tuesday,01:30:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,47223.72,38,73,14319.63,5603.19,111,Thursday,05:00:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,134537.73,22,76,5487.86,14573.2,98,Friday,22:45:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,36851.18,31,90,15371.85,20616.73,121,Tuesday,13:30:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,35108.43,6,64,2112.0,5921.13,70,Friday,05:00:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",74133.03,20,50,6579.66,8117.35,70,Tuesday,16:00:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,154410.63,44,86,21859.07,7534.43,130,Friday,00:00:00
-atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",96993.29,37,49,10086.14,8468.23,86,Monday,05:00:00
-atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,160891.51,34,135,9022.96,30292.25,169,Saturday,12:15:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,153308.31,4,10,1173.64,922.39,14,Thursday,12:15:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,134768.88,37,119,13716.21,10593.21,156,Saturday,20:00:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,82380.05,4,104,1512.21,9898.3,108,Tuesday,23:15:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,38714.92,24,63,9885.66,11552.86,87,Wednesday,01:30:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,120919.34,41,49,20285.15,5402.02,90,Sunday,18:45:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132881.05,13,95,5798.15,13299.17,108,Thursday,00:00:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,59069.79,19,50,8506.44,4418.81,69,Sunday,11:00:00
-atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,112047.4,31,99,8796.71,20315.66,130,Tuesday,09:45:00
-atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",128509.69,27,94,7417.58,7689.34,121,Saturday,09:45:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",110193.63,27,94,13482.2,8423.16,121,Saturday,22:45:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,133657.41,4,37,1531.34,4764.37,41,Friday,12:15:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,61796.88,9,108,4372.48,11049.85,117,Friday,22:45:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,64926.61,36,60,10938.07,4913.73,96,Monday,22:45:00
-atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,67502.79,44,41,18687.52,4963.25,85,Friday,14:45:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,63190.59,20,42,4904.51,7687.6,62,Wednesday,17:30:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,59061.03,27,10,7649.57,1057.31,37,Tuesday,13:30:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,35578.06,31,123,10240.36,13078.5,154,Saturday,14:45:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,54970.16,20,95,4235.03,22024.79,115,Tuesday,03:00:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,39490.07,11,16,2152.84,3796.31,27,Tuesday,09:45:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,173884.59,28,59,11878.65,7981.3,87,Monday,20:00:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,140140.55,8,118,2035.25,24390.44,126,Saturday,00:00:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,129460.22,17,41,5698.35,8455.87,58,Monday,23:15:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,118140.64,30,139,9752.76,31158.98,169,Friday,14:45:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132143.07,30,76,13068.12,16171.03,106,Saturday,21:30:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,173710.69,42,71,11481.25,5905.22,113,Friday,21:30:00
-atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",97249.94,36,30,8173.7,3279.43,66,Wednesday,14:45:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,82141.16,28,114,8189.99,17009.61,142,Tuesday,03:00:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,62063.71,38,107,13002.58,24638.47,145,Thursday,00:00:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,39282.01,36,66,12455.93,7682.33,102,Sunday,18:45:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,36487.54,12,129,5911.73,30537.23,141,Wednesday,17:30:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,35889.85,7,119,1582.96,17670.16,126,Friday,00:00:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,37054.5,31,93,9137.26,20417.11,124,Wednesday,09:45:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,66467.76,32,14,13909.38,1103.96,46,Wednesday,03:00:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,48118.03,43,20,18766.89,4628.68,63,Saturday,03:00:00
-atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",129264.21,17,42,5797.18,3756.74,59,Friday,07:15:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,129637.38,25,52,9650.09,12159.42,77,Saturday,12:15:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,173971.2,21,37,7911.81,8432.7,58,Sunday,08:30:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,38577.87,6,72,1287.88,14495.17,78,Thursday,09:45:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,36400.97,38,20,11325.87,2856.49,58,Sunday,05:00:00
-atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,67409.25,2,117,919.19,10289.17,119,Saturday,14:45:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,150638.8,11,121,2638.75,19202.33,132,Sunday,20:00:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,33791.27,32,129,10499.05,25061.4,161,Sunday,23:15:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,46574.16,19,125,4995.36,18625.05,144,Sunday,03:00:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,39552.88,33,93,7980.24,9863.61,126,Wednesday,00:00:00
-atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,67119.52,37,12,13159.17,1229.76,49,Wednesday,12:15:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,63379.53,17,131,6793.32,20100.59,148,Thursday,23:15:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",74350.3,27,72,7670.97,12158.24,99,Wednesday,11:00:00
-atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,66109.25,37,94,11085.78,13830.85,131,Wednesday,18:45:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,48201.7,22,40,9516.75,9265.97,62,Monday,09:45:00
-atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,162995.51,19,82,9754.1,17346.84,101,Tuesday,21:30:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107501.6,2,42,546.53,9896.47,44,Tuesday,13:30:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,84263.13,8,13,3001.45,1947.37,21,Tuesday,21:30:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132775.47,32,39,14704.62,5386.69,71,Monday,12:15:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,149990.21,11,48,5013.67,11104.87,59,Saturday,01:30:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,49171.85,28,67,12424.6,9022.51,95,Monday,23:15:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,40987.11,21,25,8132.76,4895.38,46,Sunday,18:45:00
-atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,163212.71,18,30,4201.19,2986.45,48,Saturday,09:45:00
-atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",128032.31,40,130,11161.13,14215.62,170,Thursday,20:00:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,83600.85,6,69,2964.78,14071.22,75,Sunday,20:00:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,137812.0,29,39,10589.39,7023.82,68,Sunday,09:45:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,141661.62,12,88,4587.78,18490.63,100,Monday,01:30:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,128513.29,21,113,10510.71,17524.07,134,Monday,20:00:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",74498.83,29,92,11172.62,6844.53,121,Friday,01:30:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,135389.56,45,78,16916.58,15578.83,123,Sunday,00:00:00
-atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,68085.69,19,56,9860.27,8069.63,75,Saturday,20:00:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73837.44,28,95,8096.47,8339.29,123,Thursday,16:00:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,62777.78,20,112,9132.25,18313.84,132,Saturday,21:30:00
-atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,63256.94,9,113,4266.63,23756.85,122,Wednesday,14:45:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,119597.22,5,58,1781.35,10199.17,63,Thursday,18:45:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,127821.6,15,78,5501.02,17760.94,93,Sunday,01:30:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,82131.67,3,71,1263.98,8720.75,74,Thursday,05:00:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,60939.76,9,128,4518.01,23054.16,137,Monday,11:00:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,81703.7,19,116,8812.32,27450.42,135,Wednesday,22:45:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,118455.3,14,140,6072.35,13048.9,154,Tuesday,17:30:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,174117.92,23,139,6229.29,9790.62,162,Sunday,18:45:00
-atm350018,Market East Transit ATM,Philadelphia,1001 Market St,151327.08,11,124,3994.29,15955.21,135,Friday,21:30:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,120580.59,22,58,11296.19,6414.62,80,Thursday,20:00:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,171653.64,22,131,9235.1,27240.08,153,Thursday,01:30:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,136017.03,33,19,7356.48,4448.09,52,Sunday,07:15:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67435.75,8,126,1481.75,11907.81,134,Sunday,20:00:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,139914.02,18,96,7054.35,13206.93,114,Monday,21:30:00
-atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,65678.57,26,91,10220.9,20098.68,117,Sunday,23:15:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,119493.26,17,83,8825.12,16346.87,100,Monday,03:00:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",66088.79,30,52,12478.81,11626.27,82,Sunday,05:00:00
-atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,37474.5,25,120,5737.34,19235.79,145,Wednesday,16:00:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,133446.34,7,107,2734.91,11870.69,114,Tuesday,08:30:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,143022.1,42,75,14122.67,13752.22,117,Tuesday,20:00:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,129531.69,12,28,3962.26,3604.89,40,Wednesday,23:15:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,151383.43,31,87,7679.75,11779.61,118,Thursday,12:15:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,49984.91,38,85,19665.58,10216.08,123,Thursday,16:00:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,136893.95,2,22,979.22,4326.94,24,Thursday,12:15:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,38567.1,40,100,10178.46,10232.24,140,Sunday,11:00:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,174657.17,42,34,20460.6,6115.85,76,Saturday,07:15:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,129054.73,10,33,4892.73,4142.89,43,Monday,16:00:00
-atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,161949.13,25,138,12264.64,29142.89,163,Tuesday,23:15:00
-atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,115236.28,23,39,7802.35,3229.23,62,Sunday,13:30:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,46267.21,37,103,7796.01,14119.0,140,Sunday,17:30:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",68775.27,45,77,17043.77,16155.44,122,Thursday,16:00:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67731.1,32,16,12500.67,3685.42,48,Saturday,11:00:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,36168.25,42,128,20546.06,15535.66,170,Tuesday,03:00:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,140867.02,21,136,4609.1,14948.58,157,Monday,01:30:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,39410.42,44,117,16706.61,22642.06,161,Thursday,16:00:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,153121.54,41,114,20470.4,13401.36,155,Monday,21:30:00
-atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,162959.89,17,102,3634.27,19029.7,119,Thursday,20:00:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,152822.0,27,80,6602.44,7261.37,107,Wednesday,01:30:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,131357.6,43,15,8479.46,1900.45,58,Monday,09:45:00
-atm350018,Market East Transit ATM,Philadelphia,1001 Market St,151658.31,37,63,14036.7,13117.8,100,Tuesday,03:00:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,174910.75,19,47,9799.43,7606.32,66,Tuesday,00:00:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67668.68,10,13,3018.02,2652.43,23,Saturday,00:00:00
-atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",128000.35,5,42,2160.92,6696.25,47,Tuesday,12:15:00
-atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,115097.99,34,37,11345.18,3983.55,71,Thursday,16:00:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,58921.38,21,127,8373.45,9562.54,148,Sunday,22:45:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,38819.14,33,123,6764.57,10299.33,156,Thursday,05:00:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73937.45,41,93,12689.81,15954.77,134,Tuesday,12:15:00
-atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,67442.18,8,39,3759.6,7045.58,47,Friday,18:45:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,58170.09,29,125,13976.58,17543.54,154,Sunday,09:45:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,39489.62,22,119,6297.68,13486.42,141,Thursday,05:00:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,136826.9,7,31,1481.89,2678.89,38,Thursday,03:00:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,143185.12,39,94,15904.38,13144.72,133,Friday,01:30:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,172035.84,20,89,5991.19,14973.91,109,Thursday,01:30:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,136080.36,8,99,3739.42,13116.05,107,Thursday,11:00:00
-atm350018,Market East Transit ATM,Philadelphia,1001 Market St,154089.02,37,16,14321.16,2909.3,53,Tuesday,18:45:00
-atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",126307.22,21,96,6286.31,9680.54,117,Tuesday,12:15:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,135818.8,11,17,2323.17,2723.09,28,Thursday,03:00:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,128701.03,25,89,10633.57,17983.52,114,Wednesday,08:30:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",75600.28,12,22,4909.79,2557.66,34,Monday,07:15:00
-atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,113020.17,28,79,7092.22,12410.81,107,Friday,20:00:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67140.27,35,88,6840.47,12073.14,123,Wednesday,21:30:00
-atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",126700.14,15,45,6597.22,5364.27,60,Tuesday,13:30:00
-atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,113603.97,13,43,4020.52,8153.84,56,Saturday,18:45:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,134213.41,6,111,2838.0,8568.24,117,Sunday,16:00:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73788.85,38,119,14248.32,22683.16,157,Sunday,14:45:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",68429.1,22,53,9953.89,9279.31,75,Thursday,00:00:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",106280.81,8,72,2625.04,9941.51,80,Monday,18:45:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,39643.76,16,95,7118.4,7883.53,111,Saturday,14:45:00
-atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,66863.25,24,99,10255.41,20712.9,123,Friday,09:45:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,48237.84,18,60,4301.81,5759.27,78,Monday,07:15:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73856.78,31,124,12759.15,27273.58,155,Tuesday,21:30:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,33803.18,11,122,2235.39,17711.4,133,Wednesday,14:45:00
-atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",93219.92,24,139,4925.4,20640.97,163,Friday,01:30:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107882.65,6,33,2334.62,5154.65,39,Sunday,13:30:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,119389.09,30,58,8679.57,8749.7,88,Sunday,01:30:00
-atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,38370.41,23,31,8085.57,3079.39,54,Thursday,05:00:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,128828.28,35,50,10630.39,11302.46,85,Thursday,22:45:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,174363.53,42,95,8501.22,8176.27,137,Wednesday,01:30:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,39457.64,23,30,8697.02,2821.28,53,Wednesday,07:15:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,152588.52,10,31,2852.58,4155.1,41,Saturday,17:30:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,140599.38,7,118,2470.2,8625.7,125,Saturday,22:45:00
-atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,163835.92,14,67,7279.89,6454.83,81,Wednesday,21:30:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",68721.28,35,19,14176.96,4160.75,54,Friday,23:15:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,36298.56,12,56,5551.89,11260.85,68,Thursday,07:15:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132439.95,4,115,1215.45,22117.9,119,Saturday,20:00:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,34832.71,16,71,4563.51,14730.09,87,Wednesday,20:00:00
-atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,164225.11,31,82,13781.43,12750.52,113,Wednesday,20:00:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,134615.57,40,45,19072.83,3549.18,85,Sunday,09:45:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107745.23,35,41,9692.25,8188.92,76,Friday,05:00:00
-atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,67121.13,7,66,3203.75,14545.55,73,Tuesday,18:45:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,61830.53,34,105,8845.59,25102.28,139,Monday,17:30:00
-atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",128121.3,43,95,19309.98,8872.23,138,Wednesday,05:00:00
-atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,111041.47,32,124,12454.99,27775.48,156,Saturday,07:15:00
-atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,163171.43,37,118,8058.73,14039.32,155,Sunday,07:15:00
-atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,36776.33,42,127,8456.89,26954.09,169,Tuesday,18:45:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,119712.01,38,71,16123.59,8485.65,109,Monday,22:45:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",109695.07,13,31,4653.8,4070.38,44,Tuesday,18:45:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,121782.84,37,15,11571.91,2248.84,52,Friday,22:45:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",108849.23,24,27,7133.59,5254.2,51,Wednesday,00:00:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,174256.21,10,21,2997.82,2678.61,31,Friday,14:45:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,175631.31,32,56,14589.09,4520.72,88,Saturday,20:00:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,128845.37,14,21,6285.68,4632.27,35,Monday,13:30:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,36757.39,36,131,9580.56,25945.79,167,Friday,17:30:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107325.47,43,94,11734.43,19353.49,137,Sunday,01:30:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,38687.26,26,96,13287.72,14818.04,122,Saturday,20:00:00
-atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,66234.34,29,30,9465.79,7175.0,59,Wednesday,03:00:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,38776.19,7,93,2832.99,11355.7,100,Wednesday,05:00:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,61153.66,24,124,4665.62,27020.38,148,Tuesday,20:00:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,62221.9,6,113,1821.15,23299.05,119,Wednesday,01:30:00
-atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",126547.16,4,42,811.44,8498.6,46,Tuesday,20:00:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,38973.91,40,49,16435.24,11333.7,89,Friday,01:30:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,172290.01,35,103,11036.61,18583.81,138,Monday,07:15:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",68828.24,33,109,16189.95,9812.11,142,Monday,08:30:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,83152.2,41,83,17054.09,19900.65,124,Thursday,09:45:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,141221.74,30,54,14566.53,7866.12,84,Sunday,03:00:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,135852.47,44,98,18534.73,16022.95,142,Sunday,14:45:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,39229.05,42,54,18893.98,8450.38,96,Sunday,08:30:00
-atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,162061.07,17,136,3211.92,22328.98,153,Sunday,07:15:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,118861.02,6,89,1892.25,17077.21,95,Tuesday,03:00:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,63052.97,38,28,8459.22,3469.05,66,Sunday,18:45:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,129949.93,24,42,11484.15,8511.08,66,Saturday,22:45:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132317.88,29,138,14199.62,10959.99,167,Sunday,07:15:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,142731.52,12,92,5973.73,9966.36,104,Wednesday,08:30:00
-atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,65570.2,18,60,7126.55,9818.58,78,Wednesday,03:00:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,37486.71,7,138,2785.55,23543.83,145,Friday,23:15:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,133358.37,38,20,17502.05,1496.47,58,Saturday,14:45:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,153268.89,43,63,18952.94,8871.64,106,Sunday,12:15:00
-atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,113460.75,20,87,6884.02,17991.34,107,Saturday,23:15:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,37835.79,5,50,1647.33,7616.13,55,Thursday,03:00:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,35775.66,22,98,11255.8,9038.56,120,Tuesday,14:45:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,117854.01,17,129,3768.18,18889.64,146,Monday,14:45:00
-atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,36149.65,41,117,10840.89,25400.97,158,Wednesday,17:30:00
-atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,66400.45,14,50,4891.74,7875.16,64,Friday,14:45:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,36134.63,7,110,2462.96,25777.04,117,Thursday,00:00:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",106659.73,20,136,7663.13,29006.68,156,Monday,01:30:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,37718.84,8,120,1804.3,13795.25,128,Friday,00:00:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,39779.8,27,23,10095.19,2371.1,50,Wednesday,01:30:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",75168.99,30,81,13818.18,14252.04,111,Thursday,22:45:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,140376.62,25,96,9241.57,12686.7,121,Monday,17:30:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,35919.22,34,20,6643.71,1865.92,54,Friday,17:30:00
-atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,112540.68,11,45,3206.59,7839.97,56,Friday,20:00:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,35782.71,39,96,13747.0,15038.53,135,Saturday,13:30:00
-atm350018,Market East Transit ATM,Philadelphia,1001 Market St,151283.05,3,104,877.86,9217.81,107,Wednesday,21:30:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,39440.89,40,131,10811.21,23770.01,171,Sunday,00:00:00
-atm350018,Market East Transit ATM,Philadelphia,1001 Market St,150510.08,5,132,1189.87,23355.33,137,Friday,11:00:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,38151.1,4,38,979.47,5509.11,42,Tuesday,11:00:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,63066.15,28,138,12417.74,31255.42,166,Saturday,09:45:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,56340.35,10,63,3707.02,15099.9,73,Saturday,01:30:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,39290.95,31,97,11337.72,17935.07,128,Wednesday,08:30:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,135922.11,41,133,10060.16,14883.8,174,Saturday,12:15:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,47593.42,15,135,4316.91,17455.03,150,Wednesday,13:30:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,56049.38,9,107,4361.03,14666.55,116,Wednesday,13:30:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,173507.77,20,20,5555.89,3828.08,40,Sunday,07:15:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,130294.19,32,64,7958.5,10339.73,96,Saturday,12:15:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,83333.9,8,71,2099.49,13054.9,79,Wednesday,07:15:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,150892.66,8,115,2338.4,17285.5,123,Tuesday,01:30:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,139693.11,12,114,4823.8,25046.95,126,Monday,23:15:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,149629.21,22,83,8791.32,18620.99,105,Tuesday,13:30:00
-atm350018,Market East Transit ATM,Philadelphia,1001 Market St,152651.1,4,54,1288.32,11469.21,58,Tuesday,23:15:00
-atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,40218.25,33,57,16448.75,13313.05,90,Sunday,17:30:00
-atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,39903.43,38,37,18835.64,4697.41,75,Monday,13:30:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,151813.03,33,44,15488.89,6580.8,77,Friday,22:45:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67649.34,31,75,13154.02,5429.57,106,Wednesday,08:30:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,36899.49,13,113,5995.3,17808.54,126,Friday,09:45:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,134321.97,10,132,2900.25,14806.18,142,Monday,08:30:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,46303.99,23,87,8694.84,14562.86,110,Thursday,12:15:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",108615.25,5,40,1691.17,3886.07,45,Saturday,11:00:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,85068.74,9,85,2744.68,9141.27,94,Sunday,13:30:00
-atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,113499.16,40,105,12855.5,17153.84,145,Tuesday,20:00:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,120159.25,17,30,6097.43,4793.68,47,Sunday,09:45:00
-atm350018,Market East Transit ATM,Philadelphia,1001 Market St,150040.22,37,139,9203.13,22411.28,176,Monday,01:30:00
-atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,69118.22,45,62,19068.84,9492.25,107,Thursday,05:00:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,128370.49,31,43,10989.63,6349.2,74,Sunday,01:30:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,127684.21,3,111,799.55,7826.9,114,Saturday,13:30:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",76726.86,24,26,8735.89,2086.33,50,Monday,18:45:00
-atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,115566.5,28,56,12360.61,11210.68,84,Monday,13:30:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,149928.01,26,124,12367.44,27794.65,150,Thursday,16:00:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,133765.76,10,99,2203.35,23639.61,109,Saturday,23:15:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,142325.08,2,15,1025.37,2230.66,17,Saturday,11:00:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,62731.98,16,73,5385.8,7035.06,89,Friday,17:30:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,56186.11,4,117,1556.3,26811.77,121,Sunday,05:00:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,48656.56,8,18,2654.32,3316.39,26,Tuesday,03:00:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,48093.83,27,122,7011.23,13046.16,149,Saturday,01:30:00
-atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,37656.94,20,69,9147.35,13410.7,89,Tuesday,22:45:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,34751.71,17,87,8124.77,20668.44,104,Sunday,14:45:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,63244.57,5,54,1964.19,7701.7,59,Wednesday,12:15:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107866.22,35,91,14586.07,12685.77,126,Saturday,17:30:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,134384.25,32,71,15000.83,8599.89,103,Sunday,23:15:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,128419.92,28,116,10345.37,10764.31,144,Monday,23:15:00
-atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,162062.73,30,104,6343.13,20090.66,134,Wednesday,03:00:00
-atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",95979.8,6,58,2721.49,9853.58,64,Thursday,01:30:00
-atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,166208.23,23,87,11623.89,6316.79,110,Thursday,09:45:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,56858.37,17,62,5352.53,6862.55,79,Monday,21:30:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,40170.03,36,101,10255.09,13245.1,137,Thursday,20:00:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,129223.82,22,62,6732.87,8702.82,84,Monday,21:30:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,47090.03,3,76,1104.38,12865.69,79,Saturday,07:15:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,38590.17,23,68,7110.35,14393.67,91,Tuesday,09:45:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,150313.39,18,135,9155.03,24176.89,153,Saturday,14:45:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,134193.45,12,45,5098.88,6885.62,57,Saturday,16:00:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,122877.25,35,18,16284.92,1487.45,53,Saturday,01:30:00
-atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,40062.12,28,45,13061.03,4920.47,73,Sunday,00:00:00
-atm350000,Downtown Metro Branch ATM,New York,"120 Broadway Ave, Manhattan",127766.97,31,105,6217.14,18733.46,136,Tuesday,22:45:00
-atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,112521.05,3,11,1082.86,1539.2,14,Saturday,21:30:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,57773.67,20,14,7015.07,2640.9,34,Wednesday,23:15:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132453.7,35,48,9167.53,8417.41,83,Monday,05:00:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",106306.15,7,105,3543.13,15543.11,112,Wednesday,17:30:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,86277.6,45,30,18102.16,6476.92,75,Tuesday,13:30:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73472.96,26,131,5176.06,9380.46,157,Thursday,17:30:00
-atm350015,Camelback Corridor ATM,Phoenix,2400 E Camelback Rd,112374.86,43,94,16012.82,20290.21,137,Sunday,18:45:00
-atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,64950.33,15,131,4082.58,29751.03,146,Monday,11:00:00
-atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",94405.2,13,90,2409.21,9469.52,103,Friday,01:30:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,84527.84,6,86,1411.4,9535.7,92,Sunday,17:30:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,40305.09,23,108,10048.86,10129.49,131,Saturday,23:15:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,56532.53,24,23,5117.12,2517.68,47,Monday,22:45:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,36318.85,22,17,8703.24,3454.45,39,Sunday,17:30:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,45843.36,26,120,6321.92,20351.85,146,Wednesday,23:15:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,174514.94,17,28,3534.18,2694.09,45,Friday,13:30:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,151021.28,22,102,4757.0,7230.09,124,Tuesday,17:30:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107999.17,8,43,1677.45,6160.46,51,Sunday,12:15:00
-atm350016,Sky Harbor Terminal 4 ATM,Phoenix,3400 E Sky Harbor Blvd,67073.49,3,32,900.99,2746.27,35,Thursday,05:00:00
-atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,65740.53,2,84,641.39,17006.53,86,Sunday,17:30:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,118795.73,12,107,2851.57,12381.64,119,Tuesday,22:45:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,140237.75,29,80,9372.07,12185.55,109,Monday,08:30:00
-atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",95483.46,40,60,13426.92,5581.99,100,Tuesday,21:30:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,38056.71,23,122,6757.64,25452.96,145,Wednesday,17:30:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,35780.13,22,61,7542.99,6112.1,83,Tuesday,13:30:00
-atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,67818.07,38,72,11050.45,8470.87,110,Wednesday,21:30:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",110325.79,39,56,16059.51,9156.94,95,Monday,09:45:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,130977.75,30,84,13879.07,6867.59,114,Saturday,09:45:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,63156.29,10,87,2622.87,15831.63,97,Saturday,21:30:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,39506.94,40,132,15118.52,21231.2,172,Monday,20:00:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,82662.68,4,102,1674.22,21225.23,106,Thursday,23:15:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",74368.2,44,100,10408.42,17415.52,144,Monday,11:00:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,150465.49,23,120,4968.49,10411.57,143,Saturday,17:30:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,58753.81,39,66,12931.02,9008.53,105,Friday,23:15:00
-atm350018,Market East Transit ATM,Philadelphia,1001 Market St,150834.56,11,98,5711.41,14902.97,109,Saturday,22:45:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73844.94,24,89,7119.42,18096.01,113,Monday,07:15:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",108559.3,30,125,8652.88,15130.61,155,Thursday,05:00:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",70218.86,43,37,17639.78,3623.79,80,Monday,14:45:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,47862.26,37,50,10823.85,7124.14,87,Friday,08:30:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,38061.59,13,120,4088.47,23442.72,133,Saturday,08:30:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,130965.72,26,11,10909.86,1154.82,37,Friday,18:45:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",74226.88,36,57,10957.31,5899.65,93,Friday,05:00:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,136266.32,35,90,13403.95,15653.02,125,Sunday,21:30:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",108515.11,41,54,18723.51,10260.97,95,Wednesday,20:00:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,35595.89,45,44,12891.74,4864.52,89,Friday,03:00:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",108004.67,34,109,10954.84,10184.68,143,Saturday,07:15:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132800.11,43,54,15852.82,8274.91,97,Thursday,23:15:00
-atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,68067.7,41,23,19445.38,5331.7,64,Sunday,20:00:00
-atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,163889.0,37,139,14875.62,19397.84,176,Sunday,17:30:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,85414.96,33,52,6867.56,3912.81,85,Sunday,20:00:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,39201.38,16,83,3795.06,12262.8,99,Monday,12:15:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,174760.22,34,38,12740.57,4390.56,72,Thursday,23:15:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",110248.13,30,65,15495.71,5681.7,95,Friday,01:30:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,169957.42,4,125,1077.43,27071.74,129,Tuesday,13:30:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",66139.13,15,99,7091.35,17200.71,114,Sunday,11:00:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,36392.41,15,25,5607.38,4012.19,40,Tuesday,09:45:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,134101.41,20,78,10076.3,12281.14,98,Wednesday,13:30:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67968.63,5,80,2373.98,7325.68,85,Tuesday,18:45:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,45651.4,17,110,5889.07,18497.86,127,Tuesday,14:45:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,63954.11,6,33,1901.82,6516.39,39,Thursday,20:00:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107887.87,22,10,10459.43,2140.18,32,Thursday,21:30:00
-atm350014,Houston Downtown Tunnel ATM,Houston,909 Fannin St,126933.49,6,111,1524.37,15877.37,117,Saturday,16:00:00
-atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",95910.82,23,43,8567.23,6557.82,66,Wednesday,13:30:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,134193.38,4,35,1571.6,7428.38,39,Sunday,01:30:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,129840.91,2,119,497.58,22260.21,121,Thursday,20:00:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,151852.72,19,33,7648.64,3714.68,52,Wednesday,08:30:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,151038.11,27,88,11524.57,17458.27,115,Tuesday,01:30:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73533.87,2,64,684.23,5923.77,66,Saturday,05:00:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,133780.25,2,97,915.63,23084.67,99,Thursday,00:00:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,138698.79,16,108,3365.96,22357.37,124,Thursday,03:00:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107202.41,26,44,10351.53,8144.99,70,Wednesday,07:15:00
-atm350018,Market East Transit ATM,Philadelphia,1001 Market St,150848.36,30,99,12768.81,17500.59,129,Monday,08:30:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,63128.03,15,32,7272.62,3001.67,47,Friday,20:00:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,58271.28,29,90,13020.02,10091.13,119,Thursday,16:00:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,45240.38,3,87,749.55,15066.45,90,Friday,13:30:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,38281.63,17,136,5290.42,15093.81,153,Wednesday,01:30:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",73677.9,25,91,5621.85,19686.79,116,Friday,00:00:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",107929.09,32,28,5941.58,2281.46,60,Friday,08:30:00
-atm350001,Times Square Financial Kiosk,New York,7th Ave & W 45th St,38423.5,34,83,13386.28,12879.8,117,Monday,17:30:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,84921.31,42,49,11522.24,6011.52,91,Thursday,03:00:00
-atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,164842.06,36,93,11262.55,16538.19,129,Sunday,07:15:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,133214.93,21,121,8991.9,25881.85,142,Saturday,03:00:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",76014.61,31,24,8839.92,4706.11,55,Thursday,05:00:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",66829.39,2,51,697.56,6575.93,53,Monday,07:15:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,58413.0,25,42,10873.1,9176.5,67,Wednesday,08:30:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67667.01,23,119,6266.89,9622.13,142,Sunday,00:00:00
-atm350018,Market East Transit ATM,Philadelphia,1001 Market St,153611.85,33,126,11670.97,10007.51,159,Saturday,03:00:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132174.16,18,36,8712.92,6645.62,54,Wednesday,08:30:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,57103.47,4,13,1052.59,1952.6,17,Friday,00:00:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,142671.54,37,117,9484.4,13127.95,154,Tuesday,01:30:00
-atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,64261.91,38,105,8382.66,19368.86,143,Wednesday,03:00:00
-atm350007,Lincoln Park Station ATM,Chicago,950 W Fullerton Ave,45364.89,4,112,813.74,16695.39,116,Sunday,22:45:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,38876.21,37,126,6760.25,13118.38,163,Wednesday,03:00:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,39719.82,31,104,11816.42,16002.62,135,Saturday,11:00:00
-atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,163204.13,17,48,3096.86,6705.89,65,Saturday,23:15:00
-atm350011,LAX Departure Level ATM,Los Angeles,"1 World Way, Westchester",109864.28,23,10,10074.83,1339.67,33,Saturday,00:00:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,40234.05,35,70,11295.81,16338.1,105,Monday,09:45:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,141725.54,7,21,3452.63,4673.32,28,Saturday,12:15:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,83659.35,7,34,2462.92,6063.11,41,Wednesday,20:00:00
-atm350018,Market East Transit ATM,Philadelphia,1001 Market St,152076.12,29,43,7554.57,4917.84,72,Friday,01:30:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,37521.57,22,125,5994.23,10337.11,147,Saturday,14:45:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,173222.76,11,37,2594.76,5521.49,48,Sunday,05:00:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,118336.08,30,88,10126.14,18913.13,118,Wednesday,09:45:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,136205.72,15,93,3456.45,17753.4,108,Wednesday,01:30:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,36598.65,45,86,12080.55,20503.69,131,Friday,01:30:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,39876.85,37,73,7851.64,6374.67,110,Sunday,20:00:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67726.37,16,43,3957.84,5938.25,59,Monday,01:30:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,152437.75,6,15,3114.21,1554.26,21,Monday,12:15:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,143353.85,9,20,4503.38,1572.17,29,Monday,14:45:00
-atm350013,Texas Medical Center ATM,Houston,6550 Fannin St,64174.41,33,17,10234.22,2423.06,50,Sunday,17:30:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132092.88,30,48,5753.42,8412.48,78,Wednesday,12:15:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,37423.2,37,132,7427.12,15518.17,169,Thursday,18:45:00
-atm350006,O'Hare Terminal 3 ATM,Chicago,10000 W O'Hare Ave,164537.16,17,14,8778.75,2840.96,31,Saturday,22:45:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,118115.7,24,138,6944.29,16004.42,162,Sunday,21:30:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,36018.56,19,24,8643.9,3604.47,43,Tuesday,00:00:00
-atm350018,Market East Transit ATM,Philadelphia,1001 Market St,152797.18,8,73,3226.67,8417.6,81,Tuesday,08:30:00
-atm350023,Deep Ellum Creative Zone ATM,Dallas,2800 Main St,57404.52,38,109,11424.08,23180.79,147,Monday,11:00:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,134109.77,24,17,10060.18,2206.36,41,Tuesday,14:45:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,140567.37,33,89,7909.75,6804.39,122,Friday,09:45:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,32693.77,35,132,6308.13,29837.59,167,Tuesday,00:00:00
-atm350004,Michigan Ave Retail Hub ATM,Chicago,620 N Michigan Ave,143028.08,22,25,4123.91,4243.09,47,Wednesday,08:30:00
-atm350024,Silicon Hills Tech Center ATM,Austin,11501 Domain Dr,173605.88,25,28,7675.52,6443.55,53,Monday,22:45:00
-atm350003,Brooklyn Heights Plaza ATM,New York,"145 Montague St, Brooklyn",67446.31,22,44,11259.44,8557.99,66,Wednesday,13:30:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,149484.29,13,101,3326.71,17182.27,114,Thursday,14:45:00
-atm350009,Downtown LA Arts District ATM,Los Angeles,400 S Santa Fe Ave,39822.38,10,55,4278.03,12721.17,65,Saturday,13:30:00
-atm350012,Post Oak Galleria Pavilion ATM,Houston,5085 Westheimer Rd,36517.73,13,91,6410.99,21337.72,104,Sunday,01:30:00
-atm350018,Market East Transit ATM,Philadelphia,1001 Market St,153253.0,11,94,4767.58,10383.17,105,Monday,21:30:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,132736.89,44,95,14601.58,10933.18,139,Saturday,03:00:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",74650.81,8,10,1570.96,1444.97,18,Wednesday,12:15:00
-atm350005,Loop Financial Center ATM,Chicago,230 S LaSalle St,133146.88,26,99,9506.85,8637.04,125,Thursday,21:30:00
-atm350018,Market East Transit ATM,Philadelphia,1001 Market St,149325.97,12,125,2460.73,26722.45,137,Saturday,11:00:00
-atm350010,Hollywood Walk Gateway ATM,Los Angeles,6801 Hollywood Blvd,66243.04,6,97,1427.01,12981.3,103,Wednesday,05:00:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,120676.33,40,133,16781.26,19062.22,173,Monday,14:45:00
-atm350019,River Walk Commerce ATM,San Antonio,300 E Market St,34991.68,5,35,1462.86,8247.67,40,Thursday,08:30:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,119920.53,18,82,5060.09,7077.07,100,Saturday,23:15:00
-atm350017,Rittenhouse Square ATM,Philadelphia,1800 Walnut St,119831.92,11,23,3329.5,3281.94,34,Sunday,21:30:00
-atm350021,Uptown Dallas McKinney ATM,Dallas,2500 McKinney Ave,135533.15,14,34,2642.5,3367.41,48,Saturday,21:30:00
-atm350002,Grand Central Concourse ATM,New York,"89 E 42nd St, Midtown",72422.88,21,111,7142.54,24656.34,132,Thursday,05:00:00
-atm350020,Alamo Plaza Tourist Kiosk,San Antonio,300 Alamo Plaza,150925.4,13,104,6253.88,13811.02,117,Friday,17:30:00
-atm350008,Wilshire Blvd Corporate ATM,Los Angeles,"11000 Wilshire Blvd, Westwood",94856.67,18,67,8362.92,11116.77,85,Thursday,20:00:00
-atm350022,DFW Terminal D South ATM,Dallas,2333 S International Pkwy,84048.34,7,98,3183.47,13757.02,105,Saturday,05:00:00
+atm350010,Kotak Mahindra ATM - BKC,Mumbai,"G Block, Bandra Kurla Complex, Mumbai",1199742.38,29,44,189616.74,107282.59,73,Monday,03:00:00
+atm350001,HDFC Bank ATM - Indiranagar,Bengaluru,"100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru",937101.01,39,51,477749.09,130698.91,90,Saturday,21:00:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2172289.18,41,69,399853.24,94182.78,110,Friday,17:00:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",821535.96,11,117,63636.7,408150.29,128,Monday,11:30:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1680894.14,22,38,195028.2,69011.77,60,Wednesday,10:15:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1908209.13,22,76,210472.08,321804.29,98,Thursday,18:30:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",975914.15,25,122,142249.75,239063.66,147,Sunday,01:30:00
+atm350022,Bank of Baroda ATM - SG Highway,Ahmedabad,"SG Highway, Bodakdev, Ahmedabad",1360350.51,36,121,411391.92,425226.27,157,Wednesday,10:15:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",2042504.12,39,87,395741.91,238585.47,126,Tuesday,23:45:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1629317.35,37,146,149681.93,199964.37,183,Tuesday,07:30:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2157987.14,43,36,291468.45,120427.14,79,Tuesday,19:45:00
+atm350008,ICICI Bank ATM - Bandra West,Mumbai,"Hill Road, Opp. Marks & Spencer, Bandra West, Mumbai",1414047.47,12,157,122197.96,622812.0,169,Friday,00:00:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",934724.43,34,20,410396.6,87061.41,54,Thursday,09:00:00
+atm350016,HDFC Bank ATM - OMR IT Corridor,Chennai,"Rajiv Gandhi Salai, Thoraipakkam, Chennai",1248185.93,37,47,417945.44,106896.86,84,Sunday,09:00:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",846979.5,28,61,230054.3,244186.37,89,Tuesday,07:30:00
+atm350000,SBI ATM - MG Road Metro,Bengaluru,"MG Road Metro Station Concourse, Bengaluru",1898508.21,36,24,152653.31,60161.54,60,Friday,15:45:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",873145.13,20,40,79931.54,117982.63,60,Tuesday,01:30:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2355178.55,13,141,156074.01,253018.44,154,Friday,07:30:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",885620.13,39,71,383386.59,187182.43,110,Thursday,10:15:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1657146.89,33,50,181682.23,71524.66,83,Thursday,23:00:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1776453.5,5,38,48914.6,53653.93,43,Tuesday,11:30:00
+atm350001,HDFC Bank ATM - Indiranagar,Bengaluru,"100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru",779781.2,9,151,48720.99,544856.32,160,Sunday,15:45:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",1995220.62,20,141,214194.44,265852.07,161,Saturday,22:15:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1186199.07,31,139,348244.13,193907.26,170,Wednesday,19:45:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2144183.89,30,106,319365.31,168897.06,136,Monday,01:30:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1805606.51,32,66,185295.04,138554.01,98,Thursday,07:30:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1870409.85,11,32,101914.42,100675.73,43,Sunday,23:45:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1255596.8,15,124,115746.94,244216.79,139,Sunday,11:30:00
+atm350001,HDFC Bank ATM - Indiranagar,Bengaluru,"100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru",797178.08,5,119,28331.94,478695.85,124,Tuesday,18:30:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1158303.48,36,59,178777.81,117039.67,95,Saturday,23:45:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1105265.75,25,34,91658.09,99158.91,59,Friday,01:30:00
+atm350016,HDFC Bank ATM - OMR IT Corridor,Chennai,"Rajiv Gandhi Salai, Thoraipakkam, Chennai",1239872.46,37,40,411346.97,57867.07,77,Tuesday,01:30:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",1007057.95,41,83,351941.84,111474.81,124,Thursday,06:00:00
+atm350021,SBI ATM - CG Road,Ahmedabad,"CG Road, Navrangpura, Ahmedabad",1913320.55,25,86,127490.26,324932.98,111,Friday,23:00:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",846747.49,34,100,402555.6,456864.34,134,Tuesday,14:15:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",812733.7,9,157,46641.02,338291.27,166,Friday,06:00:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1271354.56,23,60,167327.68,189335.08,83,Tuesday,17:00:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2191646.7,40,96,474613.25,150999.5,136,Friday,00:00:00
+atm350008,ICICI Bank ATM - Bandra West,Mumbai,"Hill Road, Opp. Marks & Spencer, Bandra West, Mumbai",1526147.13,40,59,229313.53,199265.86,99,Monday,06:00:00
+atm350006,HDFC Bank ATM - Nehru Place,Delhi,"Eros Corporate Tower, Nehru Place, New Delhi",2165121.1,37,145,204810.82,648059.02,182,Saturday,13:00:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2153638.11,7,20,44114.53,33419.02,27,Thursday,13:00:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1955218.46,40,129,336657.35,206754.23,169,Saturday,21:00:00
+atm350022,Bank of Baroda ATM - SG Highway,Ahmedabad,"SG Highway, Bodakdev, Ahmedabad",1352756.86,7,114,60321.37,197577.69,121,Tuesday,23:45:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",879361.93,27,73,257666.95,262870.1,100,Wednesday,01:30:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1836426.93,44,59,519622.56,121083.01,103,Sunday,19:45:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1906633.74,16,105,167619.11,281627.58,121,Thursday,00:00:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1125586.99,22,60,231496.82,95348.66,82,Sunday,11:30:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1655950.72,34,109,205301.35,442893.57,143,Tuesday,10:15:00
+atm350000,SBI ATM - MG Road Metro,Bengaluru,"MG Road Metro Station Concourse, Bengaluru",1877183.99,30,104,173730.25,150791.13,134,Saturday,10:15:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1657338.27,30,157,188390.81,203999.82,187,Saturday,23:00:00
+atm350008,ICICI Bank ATM - Bandra West,Mumbai,"Hill Road, Opp. Marks & Spencer, Bandra West, Mumbai",1519875.22,7,47,61236.79,114890.26,54,Tuesday,13:00:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1130820.45,12,118,138784.73,222345.46,130,Friday,23:00:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1191276.16,39,70,256903.13,101633.4,109,Monday,23:00:00
+atm350010,Kotak Mahindra ATM - BKC,Mumbai,"G Block, Bandra Kurla Complex, Mumbai",1139719.84,12,96,94994.87,345678.19,108,Friday,15:45:00
+atm350022,Bank of Baroda ATM - SG Highway,Ahmedabad,"SG Highway, Bodakdev, Ahmedabad",1350307.89,13,69,92431.96,316386.34,82,Wednesday,23:45:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1899909.66,30,160,328609.32,367031.97,190,Friday,14:15:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2129191.91,34,133,248610.93,261920.23,167,Friday,15:45:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1015342.53,23,151,215598.34,517830.17,174,Tuesday,03:00:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2389955.45,19,70,86837.45,95645.86,89,Tuesday,14:15:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",842833.01,34,126,388996.49,412324.32,160,Sunday,03:00:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",913982.94,20,57,186026.79,69537.8,77,Thursday,18:30:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2362741.68,19,65,202886.21,240843.36,84,Monday,19:45:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1822877.63,34,54,362207.93,194577.11,88,Tuesday,06:00:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",773041.4,44,149,315422.32,665236.88,193,Wednesday,21:00:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1903842.26,33,86,336320.3,363221.55,119,Saturday,22:15:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2389991.79,45,81,258919.03,119794.15,126,Friday,22:15:00
+atm350008,ICICI Bank ATM - Bandra West,Mumbai,"Hill Road, Opp. Marks & Spencer, Bandra West, Mumbai",1540881.31,39,40,174988.27,81301.65,79,Wednesday,15:45:00
+atm350022,Bank of Baroda ATM - SG Highway,Ahmedabad,"SG Highway, Bodakdev, Ahmedabad",1339100.05,31,124,194593.11,356788.61,155,Tuesday,03:00:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1101562.92,41,117,313072.37,537482.79,158,Thursday,00:00:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",813399.82,39,159,414912.19,704707.22,198,Sunday,19:45:00
+atm350008,ICICI Bank ATM - Bandra West,Mumbai,"Hill Road, Opp. Marks & Spencer, Bandra West, Mumbai",1441148.94,6,119,37956.03,433744.38,125,Thursday,22:15:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1859683.62,13,156,44860.24,408481.78,169,Sunday,21:00:00
+atm350000,SBI ATM - MG Road Metro,Bengaluru,"MG Road Metro Station Concourse, Bengaluru",1818469.98,13,138,63571.04,294845.66,151,Monday,19:45:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1850378.12,29,91,295617.05,381738.4,120,Wednesday,15:45:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1351436.16,39,33,487466.57,81175.29,72,Thursday,00:00:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2354523.13,6,83,30324.33,105689.55,89,Saturday,01:30:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",2038861.25,41,75,308517.46,159185.8,116,Thursday,06:00:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",838628.35,15,99,63079.78,127951.79,114,Friday,06:00:00
+atm350021,SBI ATM - CG Road,Ahmedabad,"CG Road, Navrangpura, Ahmedabad",1948827.66,17,39,148010.67,163412.26,56,Thursday,18:30:00
+atm350022,Bank of Baroda ATM - SG Highway,Ahmedabad,"SG Highway, Bodakdev, Ahmedabad",1416661.02,43,50,456011.26,161867.86,93,Sunday,14:15:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1765759.44,9,149,82999.37,185586.61,158,Thursday,17:00:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1694151.25,28,137,273783.17,379182.26,165,Monday,19:45:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2063908.49,35,139,253779.5,532605.52,174,Wednesday,23:45:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",932886.59,22,135,120294.46,387848.31,157,Sunday,03:00:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",887353.71,36,103,176079.98,202254.04,139,Wednesday,00:00:00
+atm350010,Kotak Mahindra ATM - BKC,Mumbai,"G Block, Bandra Kurla Complex, Mumbai",1231782.91,40,22,320185.34,41531.67,62,Wednesday,13:00:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1120880.74,20,141,184137.94,418340.91,161,Thursday,23:45:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1262444.4,30,82,181431.48,270075.21,112,Wednesday,11:30:00
+atm350016,HDFC Bank ATM - OMR IT Corridor,Chennai,"Rajiv Gandhi Salai, Thoraipakkam, Chennai",1176798.27,40,104,258873.52,294682.23,144,Wednesday,19:45:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",986483.42,25,50,252719.85,231157.96,75,Monday,10:15:00
+atm350006,HDFC Bank ATM - Nehru Place,Delhi,"Eros Corporate Tower, Nehru Place, New Delhi",2170662.65,22,154,192503.39,728395.09,176,Tuesday,22:15:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",838316.69,16,97,53305.28,302919.97,113,Tuesday,17:00:00
+atm350001,HDFC Bank ATM - Indiranagar,Bengaluru,"100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru",855567.31,13,145,54002.85,180402.54,158,Friday,14:15:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1695249.76,16,33,88768.78,141972.69,49,Thursday,15:45:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1282552.88,9,33,41499.55,135963.68,42,Thursday,22:15:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1232874.04,40,126,353550.17,509880.04,166,Tuesday,06:00:00
+atm350016,HDFC Bank ATM - OMR IT Corridor,Chennai,"Rajiv Gandhi Salai, Thoraipakkam, Chennai",1160833.22,33,96,369585.15,457354.8,129,Thursday,21:00:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",845793.57,18,74,101901.76,110428.34,92,Monday,06:00:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1709329.67,5,124,36948.42,413877.32,129,Monday,09:00:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",1012261.43,34,38,326151.11,171991.03,72,Wednesday,14:15:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2156623.85,32,49,264461.76,173042.77,81,Friday,10:15:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",1978962.62,15,98,131008.64,408391.98,113,Monday,01:30:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1858867.94,24,123,287205.34,369209.08,147,Monday,21:00:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1297844.9,32,102,282065.18,131897.59,134,Friday,01:30:00
+atm350021,SBI ATM - CG Road,Ahmedabad,"CG Road, Navrangpura, Ahmedabad",1990587.64,22,30,226532.1,54920.6,52,Sunday,00:00:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1857084.83,42,131,382346.91,389097.89,173,Wednesday,09:00:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1684329.01,25,46,279422.94,109815.49,71,Thursday,15:45:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",923425.93,40,29,297195.24,67635.59,69,Saturday,18:30:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2343630.13,5,158,37481.9,220431.28,163,Thursday,23:00:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",879770.28,45,133,462056.04,257063.68,178,Sunday,22:15:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",893588.48,12,27,147003.18,91582.33,39,Thursday,22:15:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1829808.49,5,124,20334.23,591743.59,129,Wednesday,23:45:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1901626.97,36,94,285570.35,205326.99,130,Monday,07:30:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1711244.23,40,57,270694.0,257567.34,97,Tuesday,21:00:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",1940658.17,22,126,139938.47,508508.62,148,Sunday,03:00:00
+atm350000,SBI ATM - MG Road Metro,Bengaluru,"MG Road Metro Station Concourse, Bengaluru",1862049.19,42,145,472370.79,407097.74,187,Wednesday,14:15:00
+atm350010,Kotak Mahindra ATM - BKC,Mumbai,"G Block, Bandra Kurla Complex, Mumbai",1148111.14,29,136,344390.25,588956.98,165,Friday,23:45:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",908512.37,19,125,68512.48,485117.32,144,Friday,18:30:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",883920.9,36,29,157467.25,135582.91,65,Thursday,07:30:00
+atm350003,Axis Bank ATM - Whitefield,Bengaluru,"ITPL Main Road, Whitefield, Bengaluru",1177050.83,11,154,128338.18,193308.71,165,Sunday,21:00:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2112865.14,35,87,222201.68,321355.08,122,Tuesday,03:00:00
+atm350010,Kotak Mahindra ATM - BKC,Mumbai,"G Block, Bandra Kurla Complex, Mumbai",1149961.8,29,101,261847.74,443872.71,130,Sunday,23:45:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1755948.94,20,93,249521.22,361617.38,113,Monday,03:00:00
+atm350003,Axis Bank ATM - Whitefield,Bengaluru,"ITPL Main Road, Whitefield, Bengaluru",1186096.4,33,62,318588.96,276044.25,95,Sunday,06:00:00
+atm350001,HDFC Bank ATM - Indiranagar,Bengaluru,"100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru",830203.84,28,130,127506.37,404585.84,158,Wednesday,17:00:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1910181.51,10,117,89633.06,241837.51,127,Tuesday,09:00:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",2029560.08,45,85,336330.25,306053.26,130,Tuesday,21:00:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1890310.77,15,38,109621.3,92873.38,53,Wednesday,23:45:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2114428.93,34,97,171792.42,250734.88,131,Thursday,13:00:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",1036903.7,41,95,509713.48,214968.92,136,Thursday,17:00:00
+atm350021,SBI ATM - CG Road,Ahmedabad,"CG Road, Navrangpura, Ahmedabad",1960910.98,5,32,58343.69,124243.83,37,Thursday,13:00:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",882512.89,43,110,225179.92,207292.27,153,Sunday,11:30:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2423084.0,45,44,522074.45,155180.35,89,Saturday,07:30:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1889581.07,13,43,151574.0,102176.12,56,Monday,17:00:00
+atm350006,HDFC Bank ATM - Nehru Place,Delhi,"Eros Corporate Tower, Nehru Place, New Delhi",2232849.69,28,155,220267.36,338070.26,183,Tuesday,23:45:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1744580.73,26,49,196442.53,72082.81,75,Sunday,14:15:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",947052.2,40,113,161592.67,296112.93,153,Sunday,18:30:00
+atm350003,Axis Bank ATM - Whitefield,Bengaluru,"ITPL Main Road, Whitefield, Bengaluru",1122270.09,21,117,227818.1,536450.94,138,Thursday,17:00:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",1012160.46,44,103,515322.72,205682.96,147,Thursday,00:00:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1859726.59,31,49,139497.71,225720.53,80,Saturday,14:15:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1651446.09,20,157,89233.51,444799.45,177,Monday,06:00:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1119966.63,31,59,354464.79,209905.41,90,Saturday,23:45:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",794102.4,7,114,36544.26,319303.18,121,Thursday,13:00:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1645940.45,39,111,146761.52,243442.22,150,Monday,17:00:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1917251.63,45,25,165167.11,60015.82,70,Monday,10:15:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2128744.8,40,73,346134.51,301270.32,113,Tuesday,03:00:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2395513.11,22,57,272448.09,179252.21,79,Tuesday,00:00:00
+atm350003,Axis Bank ATM - Whitefield,Bengaluru,"ITPL Main Road, Whitefield, Bengaluru",1203963.07,13,23,84911.49,92882.13,36,Saturday,00:00:00
+atm350000,SBI ATM - MG Road Metro,Bengaluru,"MG Road Metro Station Concourse, Bengaluru",1860393.77,8,52,80783.82,160883.21,60,Tuesday,13:00:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1747672.59,37,47,273935.06,93886.22,84,Thursday,17:00:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1110831.15,24,137,220393.64,179763.5,161,Sunday,23:00:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",877020.68,36,133,139804.69,198282.48,169,Thursday,06:00:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1275520.42,44,160,432212.92,411400.93,204,Tuesday,13:00:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",837962.0,43,130,177261.47,484432.77,173,Thursday,23:00:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2101870.29,18,130,133190.29,262934.99,148,Sunday,23:45:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1825985.06,11,100,78857.96,359438.83,111,Thursday,19:45:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",2017807.37,9,43,98419.31,66032.02,52,Saturday,22:15:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1123029.35,40,35,346165.01,112759.89,75,Wednesday,07:30:00
+atm350003,Axis Bank ATM - Whitefield,Bengaluru,"ITPL Main Road, Whitefield, Bengaluru",1239090.14,32,33,390595.43,110928.72,65,Thursday,17:00:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2121087.27,14,143,73996.68,227310.82,157,Friday,10:15:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1673318.48,41,77,438993.51,326677.01,118,Monday,13:00:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",832958.23,6,88,20815.59,192172.06,94,Friday,23:45:00
+atm350010,Kotak Mahindra ATM - BKC,Mumbai,"G Block, Bandra Kurla Complex, Mumbai",1179797.66,16,56,135468.58,147998.12,72,Wednesday,00:00:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2124718.27,38,75,254547.1,212484.36,113,Monday,03:00:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",961078.66,41,41,468018.37,72163.59,82,Saturday,15:45:00
+atm350001,HDFC Bank ATM - Indiranagar,Bengaluru,"100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru",840726.47,22,133,205832.66,392134.82,155,Saturday,03:00:00
+atm350008,ICICI Bank ATM - Bandra West,Mumbai,"Hill Road, Opp. Marks & Spencer, Bandra West, Mumbai",1495441.01,12,108,86378.36,239726.23,120,Tuesday,23:00:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1663321.67,7,76,48131.65,255175.31,83,Friday,14:15:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",901695.16,21,94,131282.3,115415.8,115,Tuesday,07:30:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1922320.79,39,78,306245.15,327605.86,117,Tuesday,18:30:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1313216.69,32,24,239222.86,35527.33,56,Thursday,01:30:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1154916.02,45,126,265162.11,334922.65,171,Friday,18:30:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1948006.14,28,42,203319.75,66406.51,70,Sunday,21:00:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",906889.36,30,99,304079.55,197768.28,129,Friday,03:00:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1194266.09,38,150,190125.57,599163.24,188,Friday,06:00:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2138494.92,20,46,91238.62,87868.21,66,Sunday,07:30:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2307660.52,16,146,120236.22,471499.37,162,Sunday,03:00:00
+atm350021,SBI ATM - CG Road,Ahmedabad,"CG Road, Navrangpura, Ahmedabad",1967449.01,45,100,207175.67,144583.05,145,Friday,15:45:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",927331.93,42,34,271868.63,49880.94,76,Sunday,13:00:00
+atm350001,HDFC Bank ATM - Indiranagar,Bengaluru,"100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru",872645.72,23,39,211494.16,184022.54,62,Monday,17:00:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",877911.99,34,30,251005.8,123460.12,64,Friday,18:30:00
+atm350010,Kotak Mahindra ATM - BKC,Mumbai,"G Block, Bandra Kurla Complex, Mumbai",1243608.76,37,58,447952.26,163669.23,95,Friday,22:15:00
+atm350010,Kotak Mahindra ATM - BKC,Mumbai,"G Block, Bandra Kurla Complex, Mumbai",1186363.45,37,64,131868.81,239836.04,101,Saturday,03:00:00
+atm350016,HDFC Bank ATM - OMR IT Corridor,Chennai,"Rajiv Gandhi Salai, Thoraipakkam, Chennai",1200555.46,28,115,328630.74,298390.46,143,Friday,09:00:00
+atm350021,SBI ATM - CG Road,Ahmedabad,"CG Road, Navrangpura, Ahmedabad",1965767.38,45,105,171584.11,161723.25,150,Friday,01:30:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",913113.0,26,40,224106.41,68365.69,66,Wednesday,07:30:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2138955.35,13,41,79028.45,104797.87,54,Saturday,18:30:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",2002113.21,10,128,79289.43,162000.63,138,Saturday,23:00:00
+atm350006,HDFC Bank ATM - Nehru Place,Delhi,"Eros Corporate Tower, Nehru Place, New Delhi",2276165.36,17,77,212496.3,135350.8,94,Wednesday,22:15:00
+atm350003,Axis Bank ATM - Whitefield,Bengaluru,"ITPL Main Road, Whitefield, Bengaluru",1238747.91,38,29,355525.79,126295.41,67,Friday,23:45:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",841782.66,15,66,163972.64,262412.84,81,Thursday,07:30:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1858961.51,7,125,46115.89,473813.55,132,Saturday,21:00:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",738492.47,19,156,103061.07,729479.07,175,Wednesday,21:00:00
+atm350006,HDFC Bank ATM - Nehru Place,Delhi,"Eros Corporate Tower, Nehru Place, New Delhi",2272881.02,34,92,354842.82,276962.7,126,Wednesday,21:00:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1989877.6,43,55,486713.47,76331.6,98,Sunday,10:15:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1644841.74,38,51,222341.27,201308.25,89,Friday,06:00:00
+atm350016,HDFC Bank ATM - OMR IT Corridor,Chennai,"Rajiv Gandhi Salai, Thoraipakkam, Chennai",1165165.23,10,76,107953.4,333234.71,86,Tuesday,19:45:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1084370.61,37,115,199531.24,549733.5,152,Monday,18:30:00
+atm350000,SBI ATM - MG Road Metro,Bengaluru,"MG Road Metro Station Concourse, Bengaluru",1874992.93,26,57,116471.58,127267.65,83,Wednesday,06:00:00
+atm350022,Bank of Baroda ATM - SG Highway,Ahmedabad,"SG Highway, Bodakdev, Ahmedabad",1307258.2,35,134,312295.86,597785.65,169,Sunday,07:30:00
+atm350006,HDFC Bank ATM - Nehru Place,Delhi,"Eros Corporate Tower, Nehru Place, New Delhi",2188613.27,40,155,285450.77,619104.33,195,Sunday,07:30:00
+atm350003,Axis Bank ATM - Whitefield,Bengaluru,"ITPL Main Road, Whitefield, Bengaluru",1109317.28,31,137,117307.3,577054.38,168,Monday,11:30:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1802222.18,41,81,405180.95,182134.91,122,Monday,23:00:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1671049.72,16,41,129094.5,102425.11,57,Tuesday,19:45:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1823420.1,40,25,273248.79,72312.16,65,Friday,23:00:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1659957.61,27,37,172979.91,142027.74,64,Wednesday,00:00:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2383457.36,13,31,84192.95,74981.87,44,Friday,15:45:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2427409.47,35,66,376142.5,94192.69,101,Saturday,21:00:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1883993.29,17,31,179474.37,136054.21,48,Monday,14:15:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",810596.09,39,141,216676.9,551570.47,180,Friday,18:30:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1642305.1,26,89,113298.06,224713.34,115,Sunday,01:30:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1101893.28,26,67,203181.94,200402.64,93,Thursday,18:30:00
+atm350016,HDFC Bank ATM - OMR IT Corridor,Chennai,"Rajiv Gandhi Salai, Thoraipakkam, Chennai",1189442.17,32,40,230548.69,191294.14,72,Wednesday,03:00:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",867324.29,10,103,93465.49,237248.66,113,Wednesday,06:00:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1062171.14,27,134,97035.38,580505.93,161,Tuesday,21:00:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1081938.87,9,123,59209.14,502325.3,132,Wednesday,01:30:00
+atm350000,SBI ATM - MG Road Metro,Bengaluru,"MG Road Metro Station Concourse, Bengaluru",1831461.65,7,52,26776.89,208138.08,59,Tuesday,21:00:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",895525.47,43,59,409156.92,272330.12,102,Friday,01:30:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2333400.79,38,113,262265.23,399841.31,151,Monday,07:30:00
+atm350003,Axis Bank ATM - Whitefield,Bengaluru,"ITPL Main Road, Whitefield, Bengaluru",1138755.52,36,152,244763.37,489747.31,188,Monday,09:00:00
+atm350008,ICICI Bank ATM - Bandra West,Mumbai,"Hill Road, Opp. Marks & Spencer, Bandra West, Mumbai",1452957.93,18,93,173772.36,445940.94,111,Saturday,21:00:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",2037327.63,33,64,381404.59,179353.62,97,Sunday,03:00:00
+atm350021,SBI ATM - CG Road,Ahmedabad,"CG Road, Navrangpura, Ahmedabad",1978531.18,27,36,224504.28,80830.95,63,Sunday,15:45:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1821285.71,28,150,147992.52,711971.58,178,Saturday,09:00:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",949100.15,6,112,50114.4,283144.98,118,Sunday,22:15:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1726640.92,9,99,62125.99,374315.13,108,Tuesday,03:00:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1164419.38,41,38,178987.1,88969.39,79,Sunday,19:45:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1898344.24,27,52,306855.79,208465.22,79,Saturday,23:00:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1936033.42,32,148,373427.97,207123.97,180,Sunday,07:30:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",2027499.29,15,102,178395.93,205192.69,117,Wednesday,09:00:00
+atm350016,HDFC Bank ATM - OMR IT Corridor,Chennai,"Rajiv Gandhi Salai, Thoraipakkam, Chennai",1175581.7,21,70,191226.65,222812.04,91,Wednesday,03:00:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",815253.61,10,148,91611.83,492915.54,158,Friday,23:45:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1978149.55,41,30,445862.59,39064.34,71,Saturday,15:45:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2142153.87,18,126,161071.35,164937.68,144,Sunday,13:00:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1782715.14,35,82,373925.99,300609.3,117,Wednesday,14:15:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1225328.99,15,132,105979.23,379102.91,147,Saturday,01:30:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",1986260.53,27,122,119235.38,309141.25,149,Wednesday,15:45:00
+atm350010,Kotak Mahindra ATM - BKC,Mumbai,"G Block, Bandra Kurla Complex, Mumbai",1169579.15,12,88,88574.91,150230.03,100,Tuesday,21:00:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",876649.37,20,60,215306.88,273690.33,80,Sunday,19:45:00
+atm350006,HDFC Bank ATM - Nehru Place,Delhi,"Eros Corporate Tower, Nehru Place, New Delhi",2186318.77,36,151,271489.7,659065.53,187,Sunday,09:00:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1263066.58,34,81,176828.67,200104.21,115,Thursday,23:00:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1672395.32,23,157,75349.15,249157.35,180,Friday,22:15:00
+atm350008,ICICI Bank ATM - Bandra West,Mumbai,"Hill Road, Opp. Marks & Spencer, Bandra West, Mumbai",1511940.62,30,113,108622.63,156410.95,143,Saturday,17:00:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1569347.23,9,118,71006.19,466318.87,127,Friday,14:15:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",833211.68,13,44,89222.96,178711.72,57,Saturday,06:00:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1622067.24,17,150,117859.3,201737.65,167,Sunday,07:30:00
+atm350022,Bank of Baroda ATM - SG Highway,Ahmedabad,"SG Highway, Bodakdev, Ahmedabad",1289634.15,38,136,174235.63,600477.28,174,Wednesday,22:15:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",841831.21,30,96,261649.18,290528.06,126,Wednesday,09:00:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1753685.01,35,24,231900.47,87016.87,59,Saturday,14:15:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2095422.68,43,141,243785.62,501977.98,184,Wednesday,00:00:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2056032.18,8,142,38286.1,491957.7,150,Friday,11:30:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",868481.68,7,48,34820.06,133811.46,55,Tuesday,11:30:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1094107.74,31,148,322624.51,668053.56,179,Saturday,10:15:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1041580.72,13,152,66667.61,360267.11,165,Saturday,01:30:00
+atm350016,HDFC Bank ATM - OMR IT Corridor,Chennai,"Rajiv Gandhi Salai, Thoraipakkam, Chennai",1159725.08,16,137,186924.08,333235.69,153,Thursday,15:45:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2356503.08,44,143,219474.5,298508.05,187,Sunday,13:00:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",947498.98,18,145,110672.62,356075.26,163,Wednesday,14:15:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",970065.83,12,159,80773.87,751843.89,171,Wednesday,14:15:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2374574.99,23,30,135124.13,113127.26,53,Sunday,07:30:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1883016.36,35,74,177773.14,232277.16,109,Saturday,13:00:00
+atm350022,Bank of Baroda ATM - SG Highway,Ahmedabad,"SG Highway, Bodakdev, Ahmedabad",1345827.88,11,81,60003.46,292523.58,92,Wednesday,07:30:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2082578.56,11,125,68989.04,362581.76,136,Tuesday,01:30:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",1940102.51,15,124,139078.55,541921.02,139,Monday,23:45:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2078404.85,25,93,230171.27,415577.29,118,Tuesday,14:15:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2111590.22,7,64,49604.31,269784.17,71,Tuesday,23:45:00
+atm350001,HDFC Bank ATM - Indiranagar,Bengaluru,"100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru",904621.67,36,67,428776.61,312466.09,103,Sunday,18:30:00
+atm350001,HDFC Bank ATM - Indiranagar,Bengaluru,"100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru",938812.83,41,47,485219.83,113089.13,88,Monday,14:15:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2158958.71,36,54,400134.8,155783.24,90,Friday,23:00:00
+atm350003,Axis Bank ATM - Whitefield,Bengaluru,"ITPL Main Road, Whitefield, Bengaluru",1231391.7,34,85,336020.74,106309.76,119,Wednesday,09:00:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",836262.84,16,123,174256.09,375766.28,139,Friday,10:15:00
+atm350021,SBI ATM - CG Road,Ahmedabad,"CG Road, Navrangpura, Ahmedabad",1912514.77,13,142,80723.44,297201.67,155,Monday,09:00:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",952264.82,26,97,224039.01,316448.77,123,Thursday,13:00:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1655434.67,8,50,60225.39,88749.03,58,Saturday,11:30:00
+atm350022,Bank of Baroda ATM - SG Highway,Ahmedabad,"SG Highway, Bodakdev, Ahmedabad",1382128.24,12,95,79417.9,189530.44,107,Sunday,14:15:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1693539.09,43,115,303896.66,365383.09,158,Tuesday,21:00:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1788128.89,20,40,161744.24,124056.93,60,Sunday,10:15:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2072172.29,40,149,203202.32,466664.51,189,Monday,01:30:00
+atm350016,HDFC Bank ATM - OMR IT Corridor,Chennai,"Rajiv Gandhi Salai, Thoraipakkam, Chennai",1134806.12,18,145,72823.63,440415.93,163,Thursday,06:00:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1846907.05,31,136,261775.59,436787.11,167,Tuesday,23:00:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",882550.22,30,85,323790.45,330216.17,115,Saturday,00:00:00
+atm350001,HDFC Bank ATM - Indiranagar,Bengaluru,"100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru",749650.87,9,158,112008.15,721190.7,167,Thursday,17:00:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1732158.43,31,66,320894.65,261160.66,97,Monday,14:15:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2065035.74,29,134,327336.59,598224.55,163,Thursday,17:00:00
+atm350021,SBI ATM - CG Road,Ahmedabad,"CG Road, Navrangpura, Ahmedabad",1868127.59,13,109,55942.75,520393.07,122,Saturday,23:45:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",2029817.66,5,25,61499.82,71670.35,30,Saturday,11:30:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1150933.47,19,83,142192.49,145950.27,102,Friday,18:30:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1003713.57,7,127,62431.5,580447.98,134,Sunday,06:00:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",992131.14,11,28,80870.92,101339.98,39,Tuesday,03:00:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",971891.87,30,132,161380.66,261646.33,162,Saturday,01:30:00
+atm350001,HDFC Bank ATM - Indiranagar,Bengaluru,"100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru",861230.11,23,79,248096.68,302843.57,102,Tuesday,23:00:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",802962.18,20,97,226984.05,460604.89,117,Sunday,15:45:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1143789.55,8,64,72173.89,175227.01,72,Wednesday,13:00:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1653787.82,38,101,367675.39,269643.04,139,Saturday,18:30:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1960236.61,35,81,388460.47,184894.74,116,Sunday,23:45:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1878675.83,31,126,259865.77,212024.47,157,Monday,23:45:00
+atm350006,HDFC Bank ATM - Nehru Place,Delhi,"Eros Corporate Tower, Nehru Place, New Delhi",2201464.42,33,114,133977.2,434169.57,147,Wednesday,03:00:00
+atm350008,ICICI Bank ATM - Bandra West,Mumbai,"Hill Road, Opp. Marks & Spencer, Bandra West, Mumbai",1499552.72,9,68,96149.26,225440.49,77,Thursday,01:30:00
+atm350006,HDFC Bank ATM - Nehru Place,Delhi,"Eros Corporate Tower, Nehru Place, New Delhi",2313442.3,26,97,314607.38,121754.53,123,Thursday,10:15:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1084394.77,20,72,137773.56,148434.58,92,Monday,22:15:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",889276.82,39,111,236664.76,276913.99,150,Thursday,21:00:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1877881.04,25,72,166188.89,193690.7,97,Monday,22:15:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",946410.45,6,86,50074.79,284016.28,92,Saturday,07:30:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",858389.73,26,78,175045.26,327608.25,104,Tuesday,10:15:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2075629.62,21,145,255959.06,508964.51,166,Saturday,15:45:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1934961.4,15,55,148483.74,162686.63,70,Saturday,17:00:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1856865.49,38,28,418126.81,41092.51,66,Saturday,01:30:00
+atm350001,HDFC Bank ATM - Indiranagar,Bengaluru,"100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru",925183.38,31,55,342105.64,111823.81,86,Sunday,00:00:00
+atm350000,SBI ATM - MG Road Metro,Bengaluru,"MG Road Metro Station Concourse, Bengaluru",1824883.21,34,115,127914.33,402019.64,149,Tuesday,23:00:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1703483.34,6,21,48897.46,56297.19,27,Saturday,22:15:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1106018.99,23,24,181024.01,89095.02,47,Wednesday,23:45:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1916503.44,38,58,206758.39,199010.24,96,Monday,06:00:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1603441.89,10,115,121214.69,328025.07,125,Wednesday,18:30:00
+atm350022,Bank of Baroda ATM - SG Highway,Ahmedabad,"SG Highway, Bodakdev, Ahmedabad",1387720.24,10,28,40695.55,71829.81,38,Tuesday,14:15:00
+atm350001,HDFC Bank ATM - Indiranagar,Bengaluru,"100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru",893559.02,15,41,117730.25,113245.06,56,Saturday,00:00:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2154609.79,38,30,202799.48,133337.48,68,Sunday,06:00:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2139190.22,7,39,66956.31,86164.37,46,Thursday,13:00:00
+atm350021,SBI ATM - CG Road,Ahmedabad,"CG Road, Navrangpura, Ahmedabad",2004217.92,25,24,303541.59,79519.92,49,Monday,09:00:00
+atm350022,Bank of Baroda ATM - SG Highway,Ahmedabad,"SG Highway, Bodakdev, Ahmedabad",1371138.47,9,96,42397.09,198307.19,105,Sunday,18:30:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",906787.63,26,118,265906.32,201051.01,144,Saturday,23:45:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1089251.34,27,33,110928.9,67178.71,60,Monday,23:00:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",871317.39,25,27,227433.59,108560.88,52,Sunday,18:30:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",920900.42,29,130,142893.5,430189.56,159,Wednesday,23:45:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2386440.61,20,38,79259.07,66697.43,58,Friday,14:15:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2121975.85,25,112,104773.09,136494.71,137,Tuesday,18:30:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1637731.41,11,53,44130.51,145830.89,64,Sunday,13:00:00
+atm350016,HDFC Bank ATM - OMR IT Corridor,Chennai,"Rajiv Gandhi Salai, Thoraipakkam, Chennai",1198594.31,6,42,38948.42,64471.32,48,Thursday,06:00:00
+atm350010,Kotak Mahindra ATM - BKC,Mumbai,"G Block, Bandra Kurla Complex, Mumbai",1136558.23,5,94,35242.17,376470.83,99,Sunday,18:30:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1745890.38,15,117,71645.49,253668.67,132,Tuesday,23:00:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",1996841.4,32,90,227720.06,264890.95,122,Monday,09:00:00
+atm350008,ICICI Bank ATM - Bandra West,Mumbai,"Hill Road, Opp. Marks & Spencer, Bandra West, Mumbai",1534754.09,43,70,320698.87,118143.36,113,Tuesday,22:15:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",818680.9,26,132,164139.22,545913.94,158,Wednesday,18:30:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",859929.85,25,71,191369.77,130604.09,96,Tuesday,14:15:00
+atm350010,Kotak Mahindra ATM - BKC,Mumbai,"G Block, Bandra Kurla Complex, Mumbai",1210486.9,41,82,255460.42,181144.6,123,Wednesday,22:15:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1549040.98,42,159,204679.57,630184.49,201,Monday,10:15:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1136068.24,33,94,360720.39,136203.29,127,Thursday,10:15:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1115945.36,13,97,70860.36,346405.11,110,Saturday,22:15:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",872014.61,43,142,370439.38,443568.62,185,Monday,21:00:00
+atm350022,Bank of Baroda ATM - SG Highway,Ahmedabad,"SG Highway, Bodakdev, Ahmedabad",1315043.26,7,112,68076.39,461918.14,119,Thursday,23:45:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1325027.0,27,62,248861.66,84287.02,89,Monday,11:30:00
+atm350021,SBI ATM - CG Road,Ahmedabad,"CG Road, Navrangpura, Ahmedabad",1934576.1,26,130,108817.39,202147.87,156,Saturday,18:30:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1113572.77,42,76,308521.1,198214.31,118,Friday,23:45:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2101696.55,14,108,174700.89,317301.4,122,Saturday,23:00:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1236899.19,27,99,172544.04,398313.83,126,Monday,07:30:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1636809.37,33,135,203473.32,307928.34,168,Thursday,06:00:00
+atm350003,Axis Bank ATM - Whitefield,Bengaluru,"ITPL Main Road, Whitefield, Bengaluru",1179231.21,11,62,130331.07,239677.25,73,Monday,15:45:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1810163.98,40,129,484548.1,262473.72,169,Tuesday,15:45:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1952818.72,30,27,301731.36,118237.06,57,Tuesday,19:45:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1138886.81,18,72,104194.92,268814.53,90,Thursday,00:00:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2088569.01,16,113,99706.55,321731.51,129,Monday,23:45:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1695798.88,43,119,382062.24,394272.82,162,Friday,15:45:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1896909.28,24,41,226814.97,95426.22,65,Friday,09:00:00
+atm350003,Axis Bank ATM - Whitefield,Bengaluru,"ITPL Main Road, Whitefield, Bengaluru",1123274.06,14,150,95377.92,502069.94,164,Tuesday,17:00:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1137647.28,45,157,434201.68,553101.01,202,Tuesday,22:15:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1766907.83,23,55,113620.39,232713.07,78,Tuesday,22:15:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1615312.51,13,69,140159.61,322215.15,82,Monday,22:15:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1704009.46,31,133,240092.07,199182.7,164,Thursday,22:15:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2355212.89,7,90,37037.31,201529.18,97,Tuesday,14:15:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2130524.98,40,150,170114.49,241671.59,190,Saturday,22:15:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1604716.99,33,159,172670.52,434158.54,192,Friday,01:30:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2161642.38,24,28,177180.26,68736.56,52,Sunday,11:30:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1869131.35,20,73,214790.71,242106.4,93,Sunday,06:00:00
+atm350022,Bank of Baroda ATM - SG Highway,Ahmedabad,"SG Highway, Bodakdev, Ahmedabad",1381771.23,15,55,157486.48,227078.91,70,Friday,19:45:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2006249.09,22,157,104850.01,741730.89,179,Wednesday,23:45:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2134197.86,11,54,133691.58,217538.34,65,Wednesday,23:00:00
+atm350008,ICICI Bank ATM - Bandra West,Mumbai,"Hill Road, Opp. Marks & Spencer, Bandra West, Mumbai",1487225.18,13,83,59280.83,195842.5,96,Sunday,07:30:00
+atm350021,SBI ATM - CG Road,Ahmedabad,"CG Road, Navrangpura, Ahmedabad",1928378.78,14,88,126541.23,224454.59,102,Thursday,22:15:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2354477.08,37,91,357447.51,396609.17,128,Monday,18:30:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1644405.0,10,137,91040.17,508302.92,147,Wednesday,00:00:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1788814.7,32,74,249627.17,174811.28,106,Thursday,10:15:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1738193.78,41,144,431780.18,636329.77,185,Friday,07:30:00
+atm350001,HDFC Bank ATM - Indiranagar,Bengaluru,"100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru",881330.95,6,51,71062.35,90205.77,57,Monday,21:00:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1144467.23,24,60,271971.3,261344.53,84,Tuesday,07:30:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1638003.95,28,62,103085.41,214034.87,90,Wednesday,03:00:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2349671.83,10,44,32101.03,128326.18,54,Tuesday,19:45:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",992775.56,5,22,48345.27,91115.03,27,Friday,21:00:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1193733.18,35,38,186522.21,57820.49,73,Saturday,07:30:00
+atm350003,Axis Bank ATM - Whitefield,Bengaluru,"ITPL Main Road, Whitefield, Bengaluru",1197296.23,24,55,162223.34,227046.85,79,Wednesday,17:00:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2035314.79,9,155,75947.47,526558.14,164,Saturday,07:30:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1696539.0,45,58,528975.69,198236.67,103,Saturday,10:15:00
+atm350006,HDFC Bank ATM - Nehru Place,Delhi,"Eros Corporate Tower, Nehru Place, New Delhi",2281975.04,13,51,112879.49,131708.26,64,Monday,06:00:00
+atm350010,Kotak Mahindra ATM - BKC,Mumbai,"G Block, Bandra Kurla Complex, Mumbai",1192754.42,20,90,183899.43,188406.12,110,Sunday,07:30:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1028358.4,6,97,30663.87,328338.86,103,Friday,14:15:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",856583.71,20,146,135774.72,301912.57,166,Wednesday,01:30:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1223855.18,28,101,123968.34,434191.97,129,Friday,00:00:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1658081.19,35,38,117432.4,54838.46,73,Friday,09:00:00
+atm350001,HDFC Bank ATM - Indiranagar,Bengaluru,"100 Feet Rd, HAL 2nd Stage, Indiranagar, Bengaluru",881813.61,37,93,334691.18,279351.19,130,Monday,18:30:00
+atm350022,Bank of Baroda ATM - SG Highway,Ahmedabad,"SG Highway, Bodakdev, Ahmedabad",1382321.06,45,157,369008.77,274694.99,202,Thursday,03:00:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1207074.21,14,157,87342.89,519854.28,171,Friday,10:15:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2050728.11,24,131,239726.71,556394.36,155,Saturday,03:00:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1301939.63,34,34,206597.52,131583.29,68,Thursday,06:00:00
+atm350003,Axis Bank ATM - Whitefield,Bengaluru,"ITPL Main Road, Whitefield, Bengaluru",1183649.06,5,61,39083.2,149336.45,66,Monday,07:30:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1103299.2,28,52,284841.77,225911.72,80,Wednesday,09:00:00
+atm350003,Axis Bank ATM - Whitefield,Bengaluru,"ITPL Main Road, Whitefield, Bengaluru",1198959.18,26,129,148964.91,184462.15,155,Sunday,00:00:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2160732.39,36,136,286209.77,190342.99,172,Saturday,03:00:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1924089.91,21,46,241850.62,166834.34,67,Wednesday,09:00:00
+atm350023,SBI ATM - MI Road,Jaipur,"MI Road, Near Panch Batti, Jaipur",1087672.21,7,23,38320.3,66662.11,30,Friday,00:00:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",2019376.35,40,127,211519.7,265905.93,167,Tuesday,01:30:00
+atm350010,Kotak Mahindra ATM - BKC,Mumbai,"G Block, Bandra Kurla Complex, Mumbai",1129558.69,41,115,176727.57,416756.85,156,Wednesday,03:00:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",916470.53,7,122,26887.11,350669.36,129,Sunday,23:00:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",866944.71,40,136,130964.53,261448.6,176,Wednesday,03:00:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",882382.8,34,114,295892.67,339275.22,148,Saturday,11:30:00
+atm350006,HDFC Bank ATM - Nehru Place,Delhi,"Eros Corporate Tower, Nehru Place, New Delhi",2248212.08,20,58,65186.29,155215.54,78,Saturday,23:45:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1695498.94,26,20,266709.07,51091.79,46,Saturday,00:00:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",877782.51,38,80,269962.92,372821.3,118,Monday,10:15:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",2019131.04,10,31,117678.52,137337.28,41,Saturday,13:00:00
+atm350022,Bank of Baroda ATM - SG Highway,Ahmedabad,"SG Highway, Bodakdev, Ahmedabad",1372335.09,10,44,79004.78,153734.96,54,Wednesday,21:00:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2142789.07,32,53,172863.27,113397.07,85,Friday,01:30:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",865363.77,25,135,143229.74,198298.09,160,Saturday,15:45:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2361615.23,14,47,66201.62,135256.53,61,Sunday,06:00:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1734036.73,33,98,247801.07,418355.72,131,Wednesday,10:15:00
+atm350021,SBI ATM - CG Road,Ahmedabad,"CG Road, Navrangpura, Ahmedabad",1915980.01,18,103,82429.4,387297.16,121,Wednesday,01:30:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",913591.16,24,86,259844.0,157029.45,110,Friday,01:30:00
+atm350014,SBI ATM - T Nagar,Chennai,"Usman Road, Panagal Park, T Nagar, Chennai",1865472.45,20,44,149940.04,180137.25,64,Friday,23:45:00
+atm350000,SBI ATM - MG Road Metro,Bengaluru,"MG Road Metro Station Concourse, Bengaluru",1862608.24,13,70,141182.12,177804.42,83,Monday,11:30:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2150970.26,9,25,112262.41,47797.53,34,Monday,13:00:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",2054317.9,12,30,143558.52,41468.87,42,Monday,15:45:00
+atm350013,Canara Bank ATM - Secunderabad,Hyderabad,"Station Road, Clock Tower, Secunderabad",1185484.86,36,27,243337.82,73871.74,63,Sunday,18:30:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1902751.0,33,58,116233.91,198884.06,91,Wednesday,13:00:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",846710.97,40,142,150684.21,313421.48,182,Thursday,19:45:00
+atm350006,HDFC Bank ATM - Nehru Place,Delhi,"Eros Corporate Tower, Nehru Place, New Delhi",2166294.07,20,159,211841.4,757134.63,179,Saturday,23:00:00
+atm350011,SBI ATM - Hitec City Cyber Towers,Hyderabad,"Cyber Towers Concourse, Hitec City, Hyderabad",1653348.44,36,108,420764.27,324930.5,144,Thursday,23:45:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1885944.01,43,76,149318.45,313004.61,119,Monday,15:45:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1779182.14,42,79,514836.53,123278.21,121,Friday,17:00:00
+atm350008,ICICI Bank ATM - Bandra West,Mumbai,"Hill Road, Opp. Marks & Spencer, Bandra West, Mumbai",1453491.07,19,119,123493.98,502322.81,138,Friday,01:30:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1960887.57,27,27,263037.02,66583.5,54,Tuesday,15:45:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",1955150.26,36,158,218670.97,468560.24,194,Friday,10:15:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",925664.28,6,154,45871.79,368713.33,160,Friday,11:30:00
+atm350004,SBI ATM - Connaught Place,Delhi,"Inner Circle, Block A, Connaught Place, New Delhi",2030452.32,25,35,85094.75,115912.76,60,Wednesday,09:00:00
+atm350024,SBI ATM - MG Road,Kochi,"MG Road, Ernakulam North, Kochi",2371550.22,28,38,186883.04,174455.1,66,Monday,23:00:00
+atm350003,Axis Bank ATM - Whitefield,Bengaluru,"ITPL Main Road, Whitefield, Bengaluru",1209842.53,25,54,306887.61,207169.23,79,Wednesday,14:15:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2068525.11,16,111,84417.7,368544.48,127,Thursday,15:45:00
+atm350009,Bank of Baroda ATM - Andheri East,Mumbai,"Chakala, Andheri-Kurla Road, Andheri East, Mumbai",870590.56,13,65,129715.66,300016.42,78,Saturday,14:15:00
+atm350012,HDFC Bank ATM - Banjara Hills,Hyderabad,"Road No. 12, Banjara Hills, Hyderabad",817723.08,16,101,188250.49,472994.52,117,Sunday,01:30:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2138055.54,14,104,141843.7,213905.67,118,Monday,22:15:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1929592.54,45,105,330914.63,226250.3,150,Saturday,03:00:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1282544.96,11,20,40125.48,55551.85,31,Wednesday,13:00:00
+atm350005,PNB ATM - Chandni Chowk,Delhi,"Main Market, Near Gurudwara, Chandni Chowk, Delhi",1933993.14,29,109,240062.66,170600.57,138,Thursday,22:15:00
+atm350018,PNB ATM - Salt Lake Sector V,Kolkata,"Electronics Complex, Sector V, Salt Lake, Kolkata",2033070.24,15,135,58282.46,573040.57,150,Saturday,11:30:00
+atm350010,Kotak Mahindra ATM - BKC,Mumbai,"G Block, Bandra Kurla Complex, Mumbai",1158630.71,9,107,43037.81,273026.38,116,Wednesday,06:00:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1781604.81,43,143,419331.41,393645.25,186,Monday,15:45:00
+atm350019,SBI ATM - FC Road,Pune,"Fergusson College Road, Shivajinagar, Pune",822840.92,8,45,50233.44,211852.54,53,Thursday,09:00:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1779971.04,21,92,125282.35,142167.35,113,Saturday,23:45:00
+atm350017,SBI ATM - Park Street,Kolkata,"Park Street Crossing, Central Kolkata, Kolkata",1782348.64,14,33,91779.93,90399.59,47,Sunday,22:15:00
+atm350021,SBI ATM - CG Road,Ahmedabad,"CG Road, Navrangpura, Ahmedabad",1953575.73,17,44,58468.81,79859.82,61,Saturday,22:15:00
+atm350002,ICICI Bank ATM - Koramangala,Bengaluru,"80 Feet Road, 4th Block, Koramangala, Bengaluru",1203282.54,24,121,181914.8,535008.63,145,Thursday,06:00:00
+atm350020,HDFC Bank ATM - Hinjewadi IT Park,Pune,"Phase 1, Rajiv Gandhi Infotech Park, Hinjewadi, Pune",2107447.77,16,114,182961.31,288402.44,130,Friday,18:30:00
+atm350008,ICICI Bank ATM - Bandra West,Mumbai,"Hill Road, Opp. Marks & Spencer, Bandra West, Mumbai",1499449.22,21,77,230681.48,248809.15,98,Thursday,21:00:00
+atm350022,Bank of Baroda ATM - SG Highway,Ahmedabad,"SG Highway, Bodakdev, Ahmedabad",1360057.05,10,108,107160.75,290558.01,118,Saturday,06:00:00
+atm350007,SBI ATM - Nariman Point,Mumbai,"Free Press Journal Marg, Nariman Point, Mumbai",935252.44,29,153,205705.07,478561.34,182,Friday,01:30:00
+atm350015,Indian Bank ATM - Anna Nagar,Chennai,"2nd Avenue, Roundtana, Anna Nagar, Chennai",1663550.56,35,96,137699.87,427199.8,131,Friday,11:30:00

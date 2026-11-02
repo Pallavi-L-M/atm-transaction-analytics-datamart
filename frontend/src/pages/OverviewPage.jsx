@@ -111,7 +111,7 @@ export default function OverviewPage({ onSelectAtm }) {
         {/* Metric 2: Total Reported Income */}
         <MetricCard
           title="Reported Income"
-          value={`$${totalIncome.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`}
+          value={`₹${totalIncome.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`}
           subtitle="Sum of reported cash deposits"
           icon={TrendingUp}
           accentColor="emerald"
@@ -122,7 +122,7 @@ export default function OverviewPage({ onSelectAtm }) {
         {/* Metric 3: Total Reported Outcome */}
         <MetricCard
           title="Reported Outcome"
-          value={`$${totalOutcome.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`}
+          value={`₹${totalOutcome.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`}
           subtitle="Sum of reported cash withdrawals"
           icon={TrendingDown}
           accentColor="rose"
@@ -133,7 +133,7 @@ export default function OverviewPage({ onSelectAtm }) {
         {/* Metric 4: Total Reported Transactions */}
         <MetricCard
           title="Total Transactions"
-          value={totalTransactions.toLocaleString()}
+          value={totalTransactions.toLocaleString('en-IN')}
           subtitle="Reported transaction count"
           icon={Activity}
           accentColor="violet"
@@ -154,7 +154,7 @@ export default function OverviewPage({ onSelectAtm }) {
             </div>
             
             <div className="text-2xl font-bold tracking-tight text-slate-900">
-              ${(balanceInterpretation === 'unique' ? uniqueAtmReportedBalance : rawBalanceSum).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+              ₹{(balanceInterpretation === 'unique' ? uniqueAtmReportedBalance : rawBalanceSum).toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
             </div>
           </div>
 
@@ -186,7 +186,7 @@ export default function OverviewPage({ onSelectAtm }) {
                 Reported Income versus Outcome
               </h3>
               <p className="text-xs text-slate-500 mt-0.5">
-                Comparison of reported deposit income ($) vs cash withdrawal outflow ($)
+                Comparison of reported deposit income (₹) vs cash withdrawal outflow (₹)
               </p>
             </div>
 
@@ -226,10 +226,10 @@ export default function OverviewPage({ onSelectAtm }) {
                 />
                 <YAxis
                   tick={{ fontSize: 11, fill: '#64748b' }}
-                  tickFormatter={(val) => `$${val >= 1000 ? `${(val/1000).toFixed(0)}k` : val}`}
+                  tickFormatter={(val) => `₹${val >= 100000 ? `${(val/100000).toFixed(1)}L` : val >= 1000 ? `${(val/1000).toFixed(0)}k` : val}`}
                 />
                 <Tooltip
-                  formatter={(val, name) => [`$${Number(val).toLocaleString()}`, name === 'totalIncome' || name === 'income' ? 'Reported Income' : 'Reported Outcome']}
+                  formatter={(val, name) => [`₹${Number(val).toLocaleString('en-IN')}`, name === 'totalIncome' || name === 'income' ? 'Reported Income' : 'Reported Outcome']}
                   contentStyle={{ backgroundColor: '#0f172a', borderColor: '#334155', color: '#fff', borderRadius: '8px', fontSize: '12px' }}
                 />
                 <Legend wrapperStyle={{ paddingTop: 10, fontSize: '12px' }} />
@@ -289,7 +289,7 @@ export default function OverviewPage({ onSelectAtm }) {
                   tickFormatter={(val) => val >= 1000 ? `${(val/1000).toFixed(0)}k` : val}
                 />
                 <Tooltip
-                  formatter={(val) => [`${Number(val).toLocaleString()} tx`, 'Reported Transactions']}
+                  formatter={(val) => [`${Number(val).toLocaleString('en-IN')} tx`, 'Reported Transactions']}
                   contentStyle={{ backgroundColor: '#0f172a', borderColor: '#334155', color: '#fff', borderRadius: '8px', fontSize: '12px' }}
                 />
                 <Area
@@ -356,7 +356,7 @@ export default function OverviewPage({ onSelectAtm }) {
                       {atm.atmCity}
                     </td>
                     <td className="py-2.5 px-3 text-right font-bold text-emerald-600">
-                      ${atm.totalIncome.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                      ₹{atm.totalIncome.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
                     </td>
                     <td className="py-2.5 px-3 text-right text-slate-700">
                       {atm.totalTransactions.toLocaleString()}

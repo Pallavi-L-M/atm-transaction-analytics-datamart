@@ -248,17 +248,17 @@ export default function AtmExplorerPage() {
                       </span>
                     </td>
                     <td className="py-3.5 px-4 text-right font-mono font-semibold text-slate-900">
-                      ${atm.latestBalance.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                      ₹{atm.latestBalance.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
                     </td>
                     <td className="py-3.5 px-4 text-right font-mono font-bold text-emerald-600">
-                      ${atm.totalIncome.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                      ₹{atm.totalIncome.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
                     </td>
                     <td className="py-3.5 px-4 text-right font-mono font-bold text-rose-600">
-                      ${atm.totalOutcome.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                      ₹{atm.totalOutcome.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
                     </td>
                     <td className="py-3.5 px-4 text-right font-medium text-slate-800">
                       <span className="px-2 py-0.5 rounded bg-slate-100 font-mono">
-                        {atm.totalTransactions.toLocaleString()}
+                        {atm.totalTransactions.toLocaleString('en-IN')}
                       </span>
                     </td>
                     <td className="py-3.5 px-4 text-center" onClick={(e) => e.stopPropagation()}>

@@ -67,7 +67,7 @@ export default function AtmDetailDrawer({ atm, onClose }) {
               </span>
             </div>
             <div className="text-3xl font-extrabold text-slate-900">
-              ${atm.latestBalance.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+              ₹{atm.latestBalance.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
             </div>
             <p className="text-xs text-slate-500 mt-1">
               *Latest reported balance snapshot in the dataset.
@@ -82,10 +82,10 @@ export default function AtmDetailDrawer({ atm, onClose }) {
                 <ArrowUpRight className="w-4 h-4 text-emerald-500" />
               </div>
               <div className="text-xl font-bold text-emerald-600">
-                ${atm.totalIncome.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                ₹{atm.totalIncome.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
               </div>
               <div className="text-xs text-slate-500 mt-1">
-                {atm.incomeTxCount.toLocaleString()} deposit transactions
+                {atm.incomeTxCount.toLocaleString('en-IN')} deposit transactions
               </div>
             </div>
 
@@ -95,10 +95,10 @@ export default function AtmDetailDrawer({ atm, onClose }) {
                 <ArrowDownRight className="w-4 h-4 text-rose-500" />
               </div>
               <div className="text-xl font-bold text-rose-600">
-                ${atm.totalOutcome.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                ₹{atm.totalOutcome.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
               </div>
               <div className="text-xs text-slate-500 mt-1">
-                {atm.outcomeTxCount.toLocaleString()} cash withdrawals
+                {atm.outcomeTxCount.toLocaleString('en-IN')} cash withdrawals
               </div>
             </div>
           </div>
@@ -108,13 +108,13 @@ export default function AtmDetailDrawer({ atm, onClose }) {
             <div className="flex justify-between items-center text-sm">
               <span className="text-slate-600 font-medium">Net Cash Flow:</span>
               <span className={`font-bold ${netCashFlow >= 0 ? 'text-emerald-600' : 'text-slate-900'}`}>
-                {netCashFlow >= 0 ? '+' : ''}${netCashFlow.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                {netCashFlow >= 0 ? '+' : ''}₹{netCashFlow.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
               </span>
             </div>
             <div className="flex justify-between items-center text-sm">
               <span className="text-slate-600 font-medium">Total Reported Transactions:</span>
               <span className="font-bold text-slate-900">
-                {atm.totalTransactions.toLocaleString()}
+                {atm.totalTransactions.toLocaleString('en-IN')}
               </span>
             </div>
             <div className="flex justify-between items-center text-sm">
@@ -132,16 +132,16 @@ export default function AtmDetailDrawer({ atm, onClose }) {
                 <Calendar className="w-4 h-4 mr-1.5 text-blue-600" />
                 Performance by Day of Week
               </h3>
-              <span className="text-xs text-slate-400">Amounts in $</span>
+              <span className="text-xs text-slate-400">Amounts in ₹</span>
             </div>
             <div className="h-44 w-full">
               <ResponsiveContainer width="100%" height="100%">
                 <BarChart data={dayStats} margin={{ top: 10, right: 10, left: -20, bottom: 0 }}>
                   <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" />
                   <XAxis dataKey="day" tick={{ fontSize: 11 }} />
-                  <YAxis tick={{ fontSize: 11 }} tickFormatter={(v) => `$${v > 1000 ? `${(v/1000).toFixed(0)}k` : v}`} />
+                  <YAxis tick={{ fontSize: 11 }} tickFormatter={(v) => `₹${v >= 100000 ? `${(v/100000).toFixed(0)}L` : v > 1000 ? `${(v/1000).toFixed(0)}k` : v}`} />
                   <Tooltip
-                    formatter={(val, name) => [`$${Number(val).toLocaleString()}`, name === 'income' ? 'Income' : 'Outcome']}
+                    formatter={(val, name) => [`₹${Number(val).toLocaleString('en-IN')}`, name === 'income' ? 'Income' : 'Outcome']}
                     contentStyle={{ backgroundColor: '#0f172a', borderColor: '#334155', color: '#fff', borderRadius: '8px' }}
                   />
                   <Bar dataKey="income" fill="#10b981" name="income" radius={[4, 4, 0, 0]} />
@@ -165,8 +165,8 @@ export default function AtmDetailDrawer({ atm, onClose }) {
                   <tr>
                     <th className="px-3 py-2">Day</th>
                     <th className="px-3 py-2">Time</th>
-                    <th className="px-3 py-2 text-right">Income ($)</th>
-                    <th className="px-3 py-2 text-right">Outcome ($)</th>
+                    <th className="px-3 py-2 text-right">Income (₹)</th>
+                    <th className="px-3 py-2 text-right">Outcome (₹)</th>
                     <th className="px-3 py-2 text-right">Tx Count</th>
                   </tr>
                 </thead>
@@ -176,10 +176,10 @@ export default function AtmDetailDrawer({ atm, onClose }) {
                       <td className="px-3 py-2 font-medium text-slate-700">{r.day}</td>
                       <td className="px-3 py-2 font-mono text-slate-500">{r.transactionTime}</td>
                       <td className="px-3 py-2 text-right text-emerald-600 font-medium">
-                        ${Number(r.totalIncome).toLocaleString()}
+                        ₹{Number(r.totalIncome).toLocaleString('en-IN')}
                       </td>
                       <td className="px-3 py-2 text-right text-rose-600 font-medium">
-                        ${Number(r.totalOutcome).toLocaleString()}
+                        ₹{Number(r.totalOutcome).toLocaleString('en-IN')}
                       </td>
                       <td className="px-3 py-2 text-right text-slate-700">{r.totalNumberTransaction}</td>
                     </tr>

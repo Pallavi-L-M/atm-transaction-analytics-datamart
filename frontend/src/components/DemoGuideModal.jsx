@@ -59,12 +59,12 @@ export default function DemoGuideModal({ isOpen, onClose, setActivePage }) {
       title: "4. Filter Data by City",
       page: "atm-explorer",
       badge: "Dimension Filtering",
-      summary: "Apply the 'Chicago' or 'New York' geographic filter to observe dynamic slicing across all widgets.",
+      summary: "Apply the 'Bengaluru' or 'Mumbai' geographic filter to observe dynamic slicing across all widgets.",
       talkingPoint: "Emphasize star schema dimension filtering (dim_location) across fact_atm_summary.",
-      actionLabel: "Filter by Chicago",
+      actionLabel: "Filter by Bengaluru",
       action: () => {
         resetFilters();
-        setSelectedCity('Chicago');
+        setSelectedCity('Bengaluru');
         setActivePage('atm-explorer');
       }
     },

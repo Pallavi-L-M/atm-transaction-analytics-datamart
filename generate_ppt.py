@@ -182,9 +182,9 @@ def create_presentation(output_path):
         [
             "Identifiers: atmId (e.g. atm350000), atmName (Text).",
             "Geographic: atmCity (Location grouping), atmAddress.",
-            "Vault Balance: totalBalance (Reported cash level snapshot).",
+            "Vault Balance: totalBalance (Reported cash level snapshot in ₹ INR).",
             "Transaction Counts: numberIncomeTransaction, numberOutcomeTransaction, totalNumberTransaction.",
-            "Financial Volumes: totalIncome (Deposits $), totalOutcome (Withdrawals $).",
+            "Financial Volumes: totalIncome (Deposits ₹ INR), totalOutcome (Withdrawals ₹ INR).",
             "Temporal: day (e.g. Wednesday), transactionTime (e.g. 00:00:00)."
         ]
     )
@@ -199,7 +199,7 @@ def create_presentation(output_path):
         "Dimension Tables",
         [
             "dim_atm:\n  - atm_key (PK, SERIAL)\n  - atm_id (e.g. atm350000)\n  - atm_name, atm_address",
-            "dim_location:\n  - location_key (PK)\n  - city_name (Urban cluster)\n  - state_region",
+            "dim_location:\n  - location_key (PK)\n  - city_name (e.g. Bengaluru, Mumbai)\n  - state_region",
             "dim_day:\n  - day_key (PK)\n  - day_name (Mon..Sun)\n  - is_weekend (Boolean)",
             "dim_time:\n  - time_key (PK)\n  - transaction_time\n  - period_of_day"
         ]
@@ -209,7 +209,7 @@ def create_presentation(output_path):
         "Central Fact Table (fact_atm_summary)",
         [
             "Foreign Keys to All 4 Dimensions:\n  - atm_key → dim_atm\n  - location_key → dim_location\n  - day_key → dim_day\n  - time_key → dim_time",
-            "Numeric Measures & Metrics:\n  - total_balance (Numeric)\n  - total_income (Deposits $)\n  - total_outcome (Withdrawals $)\n  - number_income_transaction\n  - number_outcome_transaction\n  - total_number_transaction",
+            "Numeric Measures & Metrics:\n  - total_balance (Vault cash ₹)\n  - total_income (Deposits ₹)\n  - total_outcome (Withdrawals ₹)\n  - number_income_transaction\n  - number_outcome_transaction\n  - total_number_transaction",
             "Surrogate Key: fact_id (BIGSERIAL)"
         ]
     )
@@ -375,7 +375,7 @@ def create_presentation(output_path):
             "Step 1: Open Overview Dashboard\n  Present network KPIs and explain the de-duplicated balance logic.",
             "Step 2: Inspect Ingested Dataset\n  Open Data Management; show 30,156 row count and 12/12 column validation.",
             "Step 3: Search for Specific ATM\n  Search 'atm350000' in Explorer and open its Slide-over detail drawer.",
-            "Step 4: Filter by City\n  Filter by 'Chicago' to prove real-time dimensional slicing across tables."
+            "Step 4: Filter by City\n  Filter by 'Bengaluru' or 'Mumbai' to prove real-time dimensional slicing across tables."
         ]
     )
 

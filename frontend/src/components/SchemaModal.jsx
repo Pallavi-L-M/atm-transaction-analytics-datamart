@@ -154,7 +154,7 @@ CREATE TABLE fact_atm_summary (
                     </div>
                     <ul className="text-xs space-y-1 text-slate-700 font-mono">
                       <li>• <strong className="text-emerald-800">location_key</strong> (SERIAL, PK)</li>
-                      <li>• city_name (VARCHAR: 'Chicago')</li>
+                      <li>• city_name (VARCHAR: 'Bengaluru')</li>
                       <li>• state_region (VARCHAR)</li>
                     </ul>
                   </div>
