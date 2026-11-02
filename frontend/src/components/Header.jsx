@@ -1,5 +1,5 @@
 import React from 'react';
-import { Award, Database, FilterX, HelpCircle, HardDrive } from 'lucide-react';
+import { Database, FilterX } from 'lucide-react';
 import { useData } from '../context/DataContext';
 
 export default function Header({ activePage, openSchemaModal }) {
@@ -8,15 +8,14 @@ export default function Header({ activePage, openSchemaModal }) {
     selectedCity,
     searchQuery,
     selectedDay,
-    resetFilters,
-    setDemoGuideOpen
+    resetFilters
   } = useData();
 
   const titleMap = {
     'overview': { title: 'Overview Dashboard', subtitle: 'Network performance, liquidity, and summary aggregates' },
     'atm-explorer': { title: 'ATM Explorer', subtitle: 'Search, geographic filter, and granular ATM inspection' },
     'analytics': { title: 'Transaction Analytics', subtitle: 'Comparative volume, cash flow, and performance rankings' },
-    'data-management': { title: 'Data Management & Ingestion', subtitle: 'CSV schema validation, row count verification, and Star Schema ETL' },
+    'data-management': { title: 'Data Management & Ingestion', subtitle: 'Universal transaction file ingestion, flexible mapping, and Star Schema ETL' },
     'reports': { title: 'Reports & Export', subtitle: 'Filterable data export, audit logs, and printable analytics report' },
   };
 
@@ -32,7 +31,11 @@ export default function Header({ activePage, openSchemaModal }) {
           <h2 className="text-xl font-bold text-slate-900 tracking-tight">
             {current.title}
           </h2>
-          <span className="px-2.5 py-0.5 rounded-full text-xs font-semibold bg-blue-50 text-blue-700 border border-blue-200/60">
+          <span className={`px-2.5 py-0.5 rounded-full text-xs font-semibold border ${
+            datasetMeta.rowCount > 0
+              ? 'bg-blue-50 text-blue-700 border-blue-200/60'
+              : 'bg-amber-50 text-amber-700 border-amber-200/60'
+          }`}>
             {datasetMeta.rowCount.toLocaleString()} Records Active
           </span>
         </div>
@@ -58,19 +61,10 @@ export default function Header({ activePage, openSchemaModal }) {
         {/* Data Mart Schema Button */}
         <button
           onClick={openSchemaModal}
-          className="hidden sm:flex items-center space-x-1.5 px-3 py-1.5 rounded-lg text-xs font-medium text-slate-700 bg-slate-100 hover:bg-slate-200 border border-slate-200 transition-colors"
+          className="flex items-center space-x-1.5 px-3.5 py-1.5 rounded-lg text-xs font-medium text-slate-700 bg-slate-100 hover:bg-slate-200 border border-slate-200 transition-colors"
         >
-          <Database className="w-3.5 h-3.5 text-slate-600" />
-          <span>Star Schema</span>
-        </button>
-
-        {/* College Demo Guide Trigger Button */}
-        <button
-          onClick={() => setDemoGuideOpen(true)}
-          className="flex items-center space-x-1.5 px-3.5 py-1.5 rounded-lg text-xs font-bold text-white bg-blue-600 hover:bg-blue-700 shadow-sm shadow-blue-600/20 transition-all"
-        >
-          <Award className="w-4 h-4 text-white" />
-          <span>Demo Guide</span>
+          <Database className="w-3.5 h-3.5 text-blue-600" />
+          <span>Star Schema (SQL)</span>
         </button>
 
       </div>

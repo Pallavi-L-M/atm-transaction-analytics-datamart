@@ -50,7 +50,7 @@ export default function AnalyticsPage() {
     return b.totalTransactions - a.totalTransactions;
   }).slice(0, 10);
 
-  // Compute key analytical ratios for college presentation
+  // Compute key analytical ratios for executive reporting
   const cashFlowRatio = totalOutcome > 0 ? (totalIncome / totalOutcome).toFixed(2) : 'N/A';
   const avgIncomePerDeposit = totalIncomeTxCount > 0 ? (totalIncome / totalIncomeTxCount).toFixed(2) : '0';
   const avgOutcomePerWithdrawal = totalOutcomeTxCount > 0 ? (totalOutcome / totalOutcomeTxCount).toFixed(2) : '0';
@@ -59,7 +59,7 @@ export default function AnalyticsPage() {
   return (
     <div className="p-8 space-y-8 max-w-7xl mx-auto">
       
-      {/* Analytics Highlights / Viva Talking Cards */}
+      {/* Key Analytical Performance Indicators */}
       <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
         
         <div className="bg-white rounded-xl border border-slate-200/80 p-5 shadow-sm">

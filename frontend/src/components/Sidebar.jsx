@@ -5,10 +5,8 @@ import {
   BarChart3,
   Database,
   FileText,
-  Award,
   Layers,
   CheckCircle2,
-  AlertCircle,
   HardDrive
 } from 'lucide-react';
 import { useData } from '../context/DataContext';
@@ -17,8 +15,7 @@ export default function Sidebar({ activePage, setActivePage, openSchemaModal }) 
   const {
     datasetMeta,
     dataSource,
-    backendStatus,
-    setDemoGuideOpen
+    backendStatus
   } = useData();
 
   const navItems = [
@@ -44,12 +41,12 @@ export default function Sidebar({ activePage, setActivePage, openSchemaModal }) 
                 ATM Analytics
               </h1>
               <span className="text-[10px] text-blue-400 font-medium tracking-wide uppercase">
-                Data Mart Prototype
+                Data Mart Platform
               </span>
             </div>
           </div>
           <div className="mt-3 px-2 py-1 bg-slate-800/60 rounded-md border border-slate-700/50 flex items-center justify-between text-[11px] text-slate-400">
-            <span>Project: B.Tech / MCA</span>
+            <span>Production Data Mart</span>
             <span className="text-blue-400 font-mono text-[10px]">v1.0</span>
           </div>
         </div>
@@ -79,31 +76,18 @@ export default function Sidebar({ activePage, setActivePage, openSchemaModal }) 
           })}
         </nav>
 
-        {/* Interactive College Demo & Schema Trigger Buttons */}
+        {/* Architecture & Star Schema */}
         <div className="p-3 space-y-2 border-t border-slate-800/80">
           <div className="px-3 py-1 text-[10px] font-bold uppercase tracking-wider text-slate-500">
-            Presentation Tools
+            Data Mart Architecture
           </div>
           
           <button
-            onClick={() => setDemoGuideOpen(true)}
-            className="w-full flex items-center justify-between px-3 py-2 rounded-lg text-xs font-medium bg-gradient-to-r from-blue-900/60 to-indigo-900/60 border border-blue-500/30 text-blue-200 hover:bg-blue-800/40 transition-colors"
-          >
-            <div className="flex items-center space-x-2">
-              <Award className="w-4 h-4 text-blue-400" />
-              <span>College Demo Guide</span>
-            </div>
-            <span className="inline-flex items-center px-1.5 py-0.2 rounded-full text-[9px] font-bold bg-blue-500 text-white animate-pulse">
-              7 Steps
-            </span>
-          </button>
-
-          <button
             onClick={openSchemaModal}
-            className="w-full flex items-center space-x-2 px-3 py-2 rounded-lg text-xs font-medium text-slate-300 hover:text-white bg-slate-800/50 hover:bg-slate-800 border border-slate-700/40 transition-colors"
+            className="w-full flex items-center space-x-2.5 px-3 py-2 rounded-lg text-xs font-medium text-slate-300 hover:text-white bg-slate-800/50 hover:bg-slate-800 border border-slate-700/40 transition-colors"
           >
             <Layers className="w-4 h-4 text-emerald-400" />
-            <span>Star Schema (SQL)</span>
+            <span>Star Schema (PostgreSQL)</span>
           </button>
         </div>
       </div>
@@ -115,7 +99,7 @@ export default function Sidebar({ activePage, setActivePage, openSchemaModal }) 
           {/* Dataset Status */}
           <div className="flex items-center justify-between text-slate-400">
             <span className="flex items-center">
-              <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400 mr-1.5 shrink-0" />
+              <CheckCircle2 className={`w-3.5 h-3.5 mr-1.5 shrink-0 ${datasetMeta.rowCount > 0 ? 'text-emerald-400' : 'text-amber-400'}`} />
               Dataset:
             </span>
             <span className="font-semibold text-slate-200">
@@ -126,8 +110,14 @@ export default function Sidebar({ activePage, setActivePage, openSchemaModal }) 
           {/* Mode */}
           <div className="flex items-center justify-between text-slate-400">
             <span>Source:</span>
-            <span className="px-1.5 py-0.5 rounded text-[10px] font-medium bg-slate-800 text-slate-300">
-              {dataSource === 'sample' ? 'Sample Data' : 'CSV Uploaded'}
+            <span className={`px-1.5 py-0.5 rounded text-[10px] font-medium ${
+              dataSource === 'sample'
+                ? 'bg-blue-900/40 text-blue-300'
+                : dataSource === 'uploaded'
+                ? 'bg-emerald-900/40 text-emerald-300'
+                : 'bg-rose-900/40 text-rose-300'
+            }`}>
+              {dataSource === 'sample' ? 'Sample Data' : dataSource === 'uploaded' ? 'CSV Uploaded' : 'Data Erased'}
             </span>
           </div>
 

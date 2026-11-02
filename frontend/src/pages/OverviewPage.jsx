@@ -11,7 +11,8 @@ import {
   Clock,
   Info,
   ChevronRight,
-  HelpCircle
+  HelpCircle,
+  AlertTriangle
 } from 'lucide-react';
 import {
   ResponsiveContainer,
@@ -65,6 +66,19 @@ export default function OverviewPage({ onSelectAtm }) {
   return (
     <div className="p-8 space-y-8 max-w-7xl mx-auto">
       
+      {/* Erased Data Notification */}
+      {recordCount === 0 && (
+        <div className="bg-amber-50 border border-amber-200 rounded-xl p-5 flex items-start space-x-3.5 text-amber-900">
+          <AlertTriangle className="w-5 h-5 text-amber-600 shrink-0 mt-0.5" />
+          <div className="text-xs space-y-1">
+            <h4 className="font-bold text-sm text-amber-900">Active Data Mart is Currently Empty (Data Erased)</h4>
+            <p className="text-amber-700">
+              All transaction records have been erased. Please go to <strong>Data Management</strong> to upload any transaction file (CSV/TSV) or click "Load Sample Data" to repopulate the dashboard.
+            </p>
+          </div>
+        </div>
+      )}
+
       {/* Top Banner & Filter Bar */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 bg-white p-4 rounded-xl border border-slate-200/80 shadow-sm">
         <div className="flex items-center space-x-2 text-xs text-slate-600">

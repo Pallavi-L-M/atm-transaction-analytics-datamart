@@ -126,7 +126,7 @@ export default function ReportsPage() {
             </div>
             <div>
               <span className="text-slate-400">Classification: </span>
-              <span className="text-blue-700 font-semibold">College Project Prototype</span>
+              <span className="text-blue-700 font-semibold">Production Analytics Data Mart</span>
             </div>
           </div>
         </div>
@@ -278,15 +278,15 @@ export default function ReportsPage() {
           <div className="grid grid-cols-2 pt-8 text-center text-xs text-slate-600">
             <div>
               <div className="border-t border-slate-300 w-48 mx-auto pt-1 font-semibold text-slate-800">
-                Student Presenter
+                Data Mart Engineer
               </div>
-              <span className="text-[10px] text-slate-400">Data Mart Engineer</span>
+              <span className="text-[10px] text-slate-400">Analytics & BI Lead</span>
             </div>
             <div>
               <div className="border-t border-slate-300 w-48 mx-auto pt-1 font-semibold text-slate-800">
-                Project Evaluator / Faculty Guide
+                Operations Head
               </div>
-              <span className="text-[10px] text-slate-400">Department Reviewer</span>
+              <span className="text-[10px] text-slate-400">Chief Risk & Review Officer</span>
             </div>
           </div>
         </div>

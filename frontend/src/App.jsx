@@ -3,7 +3,6 @@ import { DataProvider, useData } from './context/DataContext';
 import Sidebar from './components/Sidebar';
 import Header from './components/Header';
 import AtmDetailDrawer from './components/AtmDetailDrawer';
-import DemoGuideModal from './components/DemoGuideModal';
 import SchemaModal from './components/SchemaModal';
 
 import OverviewPage from './pages/OverviewPage';
@@ -19,9 +18,7 @@ function DashboardLayout() {
   const {
     selectedAtmId,
     setSelectedAtmId,
-    analyticsSummary,
-    demoGuideOpen,
-    setDemoGuideOpen
+    analyticsSummary
   } = useData();
 
   // Find currently selected ATM object if any
@@ -76,13 +73,6 @@ function DashboardLayout() {
           onClose={() => setSelectedAtmId(null)}
         />
       )}
-
-      {/* College Presentation 7-Step Guided Tour Modal */}
-      <DemoGuideModal
-        isOpen={demoGuideOpen}
-        onClose={() => setDemoGuideOpen(false)}
-        setActivePage={setActivePage}
-      />
 
       {/* Star Schema Dimensional Architecture Modal */}
       <SchemaModal
